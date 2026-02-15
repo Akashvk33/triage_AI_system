@@ -1,0 +1,1501 @@
+Age,Gender,Symptoms,Heart_Rate,Temperature,Blood_Pressure,Pre_Existing_Conditions,Red_Flags,Risk_Level
+11,Female,tightness spreading to left arm,82,98.5,136/86,asthma,,Low
+28,Male,burning sensation in chest,130,97.4,125/72,asthma,,High
+47,Male,persistent cough and fatigue,158,103.1,128/70,none,unconscious,Critical
+32,Female,lower back strain,96,97.5,126/60,none,,Low
+69,Female,,61,99.0,122/68,none,,Low
+37,Male,sudden crushing chest pain,136,99.5,109/85,asthma,major trauma,Critical
+60,Male,shortness of breath at rest,127,97.3,138/71,diabetes,,High
+36,Female,dizziness and slurred speech,119,97.8,119/90,heart disease,,Low
+62,Female,sudden crushing chest pain,129,97.9,100/84,hypertension,,High
+25,Male,dizziness and slurred speech,117,98.7,109/80,none,,Low
+75,Male,lower back strain,65,104.5,132/72,none,,Critical
+49,Male,joint swelling and stiffness,124,101.8,138/64,diabetes,major trauma,Critical
+23,Male,sudden crushing chest pain,145,99.1,112/85,none,active seizure,Critical
+71,Female,extreme weakness,65,97.7,136/78,asthma,,Low
+73,Male,joint swelling and stiffness,77,97.6,139/88,none,,Low
+6,Female,dizziness and slurred speech,107,98.5,125/67,hypertension,,Low
+34,Male,sudden crushing chest pain,125,98.5,113/70,heart disease,,High
+47,Male,persistent cough and fatigue,72,101.9,128/78,hypertension,,Medium
+51,Male,tightness spreading to left arm,139,102.3,111/66,asthma,suicidal ideation,Critical
+46,Female,persistent cough and fatigue,94,100.2,135/73,hypertension,,Medium
+5,Male,dizziness and slurred speech,104,99.0,,asthma,,Low
+53,Female,dizziness and slurred speech,136,105.6,116/62,hypertension,suicidal ideation,Critical
+71,Female,severe headache with confusion,102,104.5,120/70,asthma,,Critical
+20,Female,burning sensation in chest,129,98.5,119/85,heart disease,,High
+8,Male,dizziness and slurred speech,98,98.5,100/63,hypertension,,Low
+9,Female,shortness of breath at rest,146,100.4,136/71,hypertension,major trauma,Critical
+85,Female,burning sensation in chest,104,98.0,133/67,hypertension,,High
+22,Female,shortness of breath at rest,119,98.8,109/61,none,,High
+92,Female,extreme weakness,63,98.2,108/62,heart disease,,Low
+72,Female,sudden crushing chest pain,113,98.4,109/86,heart disease,,High
+22,Female,lower back strain,89,98.1,126/79,none,,Low
+51,Female,high fever with chills,83,102.3,,hypertension,,Medium
+48,Female,,73,98.4,101/88,hypertension,,Low
+56,Female,lower back strain,100,97.3,,asthma,,Low
+36,Male,burning sensation in chest,147,97.1,112/73,diabetes,,High
+31,Female,shortness of breath at rest,133,97.1,130/86,hypertension,,High
+21,Male,dizziness and slurred speech,83,97.7,100/68,none,,Low
+22,Male,sudden crushing chest pain,100,98.0,105/61,heart disease,,High
+41,Male,persistent cough and fatigue,97,102.4,128/79,none,,Medium
+90,Female,tightness spreading to left arm,93,97.9,102/78,asthma,,Low
+50,Female,joint swelling and stiffness,151,101.9,137/90,hypertension,suicidal ideation,Critical
+23,Male,extreme weakness,141,100.7,129/67,heart disease,unconscious,Critical
+46,Female,high fever with chills,94,101.2,101/61,heart disease,,Medium
+8,Male,dizziness and slurred speech,110,98.0,140/71,hypertension,,Low
+10,Female,shortness of breath at rest,118,98.7,100/71,hypertension,,High
+64,Female,persistent cough and fatigue,147,101.3,112/64,diabetes,severe bleeding,Critical
+26,Female,sudden crushing chest pain,128,105.6,108/61,asthma,,Critical
+55,Male,extreme weakness,68,98.5,100/80,heart disease,,Low
+7,Male,shortness of breath at rest,146,105.4,107/88,hypertension,,Critical
+33,Male,dizziness and slurred speech,139,100.4,107/61,hypertension,severe bleeding,Critical
+7,Male,shortness of breath at rest,149,97.1,124/79,heart disease,,High
+44,Male,extreme weakness,93,97.1,110/90,asthma,,Low
+38,Female,lower back strain,143,105.4,100/88,heart disease,severe bleeding,Critical
+72,Female,tightness spreading to left arm,136,103.6,103/66,none,active seizure,Critical
+72,Female,tightness spreading to left arm,151,99.8,106/68,heart disease,suicidal ideation,Critical
+35,Female,extreme weakness,125,99.9,128/88,diabetes,unconscious,Critical
+49,Female,sudden crushing chest pain,114,97.8,121/71,none,,High
+10,Female,dizziness and slurred speech,92,97.6,,hypertension,,Low
+19,Male,,142,101.8,115/77,none,suicidal ideation,Critical
+38,Male,persistent cough and fatigue,99,102.1,106/83,heart disease,,Medium
+68,Male,persistent cough and fatigue,68,101.3,107/87,heart disease,,Medium
+69,Female,joint swelling and stiffness,158,102.4,108/84,heart disease,suicidal ideation,Critical
+7,Female,sudden crushing chest pain,118,98.1,124/90,none,,High
+59,Female,extreme weakness,93,98.4,120/84,hypertension,,Low
+56,Male,high fever with chills,79,101.9,110/66,heart disease,,Medium
+29,Female,tightness spreading to left arm,80,97.9,123/84,none,,Low
+74,Female,lower back strain,72,97.2,111/85,heart disease,,Low
+12,Male,lower back strain,67,98.4,126/69,diabetes,,Low
+30,Female,lower back strain,96,105.8,108/73,hypertension,,Critical
+66,Female,extreme weakness,60,98.8,123/63,hypertension,,Low
+29,Female,high fever with chills,199,102.4,112/78,diabetes,major trauma,Critical
+20,Male,severe headache with confusion,100,98.2,,diabetes,,Low
+43,Female,joint swelling and stiffness,81,98.0,132/68,heart disease,,Low
+32,Female,,72,97.8,114/67,diabetes,,Low
+59,Male,extreme weakness,77,97.1,,heart disease,,Low
+70,Female,,68,98.6,126/71,heart disease,,Low
+6,Female,persistent cough and fatigue,92,102.7,135/74,hypertension,,Medium
+75,Female,,151,103.6,138/71,none,unconscious,Critical
+39,Female,high fever with chills,163,103.9,135/74,hypertension,active seizure,Critical
+5,Male,,162,102.5,129/73,asthma,suicidal ideation,Critical
+5,Female,sudden crushing chest pain,125,101.4,,asthma,major trauma,Critical
+41,Female,shortness of breath at rest,109,98.7,121/60,hypertension,,High
+12,Female,shortness of breath at rest,101,98.4,122/88,none,,High
+74,Male,tightness spreading to left arm,81,97.3,108/81,heart disease,,Low
+66,Female,tightness spreading to left arm,85,99.0,108/76,none,,Low
+34,Female,extreme weakness,94,98.9,109/76,heart disease,,Low
+51,Male,sudden crushing chest pain,131,97.6,,none,,High
+63,Female,,90,97.0,,none,,Low
+34,Female,severe headache with confusion,207,98.4,119/89,asthma,,Critical
+26,Male,high fever with chills,99,101.5,103/60,diabetes,,Medium
+52,Female,sudden crushing chest pain,121,98.0,103/87,heart disease,,High
+35,Male,burning sensation in chest,170,99.3,127/80,diabetes,severe bleeding,Critical
+51,Female,dizziness and slurred speech,100,98.3,122/81,asthma,,Low
+49,Male,shortness of breath at rest,117,98.9,139/61,asthma,,High
+34,Female,dizziness and slurred speech,121,99.9,105/73,diabetes,active seizure,Critical
+27,Female,burning sensation in chest,110,97.8,126/61,hypertension,,High
+50,Male,sudden crushing chest pain,131,98.6,116/88,diabetes,,High
+22,Female,,122,102.2,107/76,hypertension,unconscious,Critical
+65,Female,shortness of breath at rest,106,97.8,120/77,heart disease,,High
+42,Female,lower back strain,85,98.0,112/74,heart disease,,Low
+46,Male,burning sensation in chest,119,98.3,117/76,heart disease,,High
+40,Female,extreme weakness,79,97.6,102/64,asthma,,Low
+44,Male,dizziness and slurred speech,96,97.9,133/61,diabetes,,Low
+19,Male,persistent cough and fatigue,92,100.8,137/73,diabetes,,Medium
+9,Female,joint swelling and stiffness,70,98.8,133/65,heart disease,,Low
+30,Female,high fever with chills,75,100.9,105/70,heart disease,,Medium
+55,Male,tightness spreading to left arm,162,103.2,126/81,asthma,major trauma,Critical
+72,Female,severe headache with confusion,96,97.3,102/87,heart disease,,Low
+62,Male,sudden crushing chest pain,108,99.0,119/64,none,,High
+20,Male,burning sensation in chest,100,97.7,,none,,High
+72,Female,extreme weakness,92,97.8,123/87,asthma,,Low
+34,Female,persistent cough and fatigue,94,102.9,126/69,hypertension,,Medium
+34,Male,,92,98.7,111/65,none,,Low
+90,Female,shortness of breath at rest,146,105.0,113/60,none,,Critical
+10,Male,persistent cough and fatigue,66,101.2,135/77,heart disease,,Medium
+53,Female,dizziness and slurred speech,113,98.5,130/70,diabetes,,Low
+92,Male,burning sensation in chest,67,97.5,102/73,heart disease,,High
+65,Female,burning sensation in chest,112,97.5,117/78,heart disease,,High
+37,Male,extreme weakness,92,98.0,117/76,asthma,,Low
+66,Male,persistent cough and fatigue,166,100.7,111/64,hypertension,major trauma,Critical
+59,Male,severe headache with confusion,88,98.4,,heart disease,,Low
+40,Female,joint swelling and stiffness,74,97.6,106/78,hypertension,,Low
+60,Male,dizziness and slurred speech,124,99.4,,diabetes,major trauma,Critical
+47,Female,,70,98.7,118/69,heart disease,,Low
+24,Male,lower back strain,88,97.4,125/60,none,,Low
+45,Male,tightness spreading to left arm,98,105.3,135/80,heart disease,,Critical
+74,Male,joint swelling and stiffness,76,98.4,,diabetes,,Low
+75,Female,burning sensation in chest,191,105.2,114/76,heart disease,major trauma,Critical
+21,Female,joint swelling and stiffness,92,97.4,123/86,none,,Low
+29,Male,burning sensation in chest,140,98.8,118/61,diabetes,,High
+68,Male,persistent cough and fatigue,124,103.9,116/75,diabetes,severe bleeding,Critical
+46,Male,shortness of breath at rest,102,98.1,136/64,asthma,,High
+46,Male,burning sensation in chest,107,98.7,125/83,asthma,,High
+55,Male,burning sensation in chest,108,98.4,102/79,hypertension,,High
+30,Female,severe headache with confusion,165,99.9,107/70,hypertension,major trauma,Critical
+63,Female,sudden crushing chest pain,123,99.8,123/82,none,active seizure,Critical
+43,Female,severe headache with confusion,80,98.3,139/65,asthma,,Low
+57,Female,severe headache with confusion,87,97.5,134/74,heart disease,,Low
+70,Female,tightness spreading to left arm,140,99.7,140/88,hypertension,unconscious,Critical
+47,Female,extreme weakness,78,98.4,,diabetes,,Low
+42,Female,joint swelling and stiffness,166,101.5,105/60,asthma,unconscious,Critical
+49,Male,joint swelling and stiffness,76,97.1,134/79,none,,Low
+72,Female,burning sensation in chest,128,98.4,123/71,asthma,,High
+26,Female,persistent cough and fatigue,74,101.8,,asthma,,Medium
+52,Female,persistent cough and fatigue,133,101.9,137/60,hypertension,suicidal ideation,Critical
+12,Female,shortness of breath at rest,107,97.2,,asthma,,High
+64,Female,lower back strain,132,100.7,117/72,hypertension,severe bleeding,Critical
+93,Female,lower back strain,98,98.5,119/66,asthma,,Low
+31,Female,dizziness and slurred speech,85,97.7,112/87,none,,Low
+21,Female,extreme weakness,67,97.1,104/75,asthma,,Low
+40,Male,joint swelling and stiffness,99,97.3,104/65,heart disease,,Low
+63,Male,sudden crushing chest pain,115,98.3,117/74,heart disease,,High
+8,Female,joint swelling and stiffness,77,97.7,127/73,diabetes,,Low
+69,Male,high fever with chills,62,101.9,136/74,asthma,,Medium
+54,Male,burning sensation in chest,112,98.0,137/71,asthma,,High
+12,Female,burning sensation in chest,147,97.5,120/82,hypertension,,High
+22,Female,burning sensation in chest,116,98.4,133/76,diabetes,,High
+74,Male,lower back strain,93,97.6,122/82,none,,Low
+94,Female,dizziness and slurred speech,82,98.6,123/69,asthma,,Low
+6,Male,severe headache with confusion,61,97.4,132/63,hypertension,,Low
+64,Male,burning sensation in chest,142,103.4,107/68,hypertension,active seizure,Critical
+39,Male,tightness spreading to left arm,60,97.3,121/88,diabetes,,Low
+39,Male,tightness spreading to left arm,92,98.7,126/81,none,,Low
+27,Male,high fever with chills,79,102.6,104/87,none,,Medium
+58,Female,burning sensation in chest,110,97.8,137/87,asthma,,High
+40,Female,burning sensation in chest,133,97.6,121/64,heart disease,,High
+44,Male,persistent cough and fatigue,91,100.8,127/71,diabetes,,Medium
+34,Female,persistent cough and fatigue,60,102.8,134/85,none,,Medium
+51,Male,burning sensation in chest,137,105.2,126/63,diabetes,severe bleeding,Critical
+29,Male,shortness of breath at rest,114,97.3,124/75,asthma,,High
+45,Male,severe headache with confusion,83,97.3,120/64,heart disease,,Low
+65,Female,persistent cough and fatigue,61,100.5,121/65,heart disease,,Medium
+68,Male,extreme weakness,81,98.1,130/90,asthma,,Low
+29,Female,,92,97.0,139/74,none,,Low
+35,Female,joint swelling and stiffness,80,98.5,134/76,asthma,,Low
+23,Female,persistent cough and fatigue,99,102.0,117/76,none,,Medium
+18,Female,persistent cough and fatigue,66,102.1,101/87,diabetes,,Medium
+22,Female,,163,102.1,128/62,none,major trauma,Critical
+42,Female,high fever with chills,187,101.9,112/79,hypertension,,Critical
+33,Female,lower back strain,91,97.6,102/78,none,,Low
+48,Male,dizziness and slurred speech,133,99.4,111/82,heart disease,severe bleeding,Critical
+7,Male,severe headache with confusion,92,98.7,,asthma,,Low
+43,Male,lower back strain,98,97.1,111/77,diabetes,,Low
+88,Female,burning sensation in chest,130,98.4,111/71,hypertension,,High
+54,Female,tightness spreading to left arm,66,98.2,136/70,none,,Low
+43,Male,extreme weakness,75,97.8,131/88,asthma,,Low
+22,Female,sudden crushing chest pain,123,97.3,136/80,hypertension,,High
+12,Female,persistent cough and fatigue,71,102.3,134/89,none,,Medium
+66,Male,extreme weakness,63,98.9,110/68,asthma,,Low
+65,Male,persistent cough and fatigue,96,102.8,,asthma,,Medium
+62,Female,lower back strain,160,103.0,116/81,none,suicidal ideation,Critical
+47,Female,extreme weakness,68,97.3,131/78,asthma,,Low
+6,Female,extreme weakness,98,98.6,117/65,none,,Low
+10,Male,burning sensation in chest,123,97.6,103/74,diabetes,,High
+12,Female,high fever with chills,85,101.1,128/68,diabetes,,Medium
+20,Male,tightness spreading to left arm,154,102.4,122/73,heart disease,major trauma,Critical
+41,Female,tightness spreading to left arm,73,98.4,102/75,heart disease,,Low
+19,Male,sudden crushing chest pain,130,104.3,113/72,hypertension,,Critical
+37,Female,tightness spreading to left arm,66,97.5,,diabetes,,Low
+41,Female,severe headache with confusion,87,98.7,101/87,hypertension,,Low
+40,Female,severe headache with confusion,80,98.5,130/74,asthma,,Low
+93,Female,sudden crushing chest pain,147,98.2,128/70,diabetes,,High
+65,Male,dizziness and slurred speech,61,97.4,124/65,hypertension,,Low
+5,Female,joint swelling and stiffness,95,98.1,101/63,none,,Low
+25,Female,sudden crushing chest pain,118,97.9,140/76,hypertension,,High
+92,Female,tightness spreading to left arm,98,97.0,127/81,diabetes,,Low
+73,Female,persistent cough and fatigue,100,104.5,,asthma,,Critical
+45,Female,persistent cough and fatigue,73,97.7,104/76,none,,Medium
+11,Female,burning sensation in chest,141,98.9,124/68,heart disease,,High
+67,Male,sudden crushing chest pain,125,97.7,114/75,diabetes,,High
+53,Male,high fever with chills,93,100.6,135/85,hypertension,,Medium
+7,Male,dizziness and slurred speech,99,97.4,123/88,hypertension,,Low
+7,Male,joint swelling and stiffness,67,98.0,111/81,diabetes,,Low
+29,Female,burning sensation in chest,122,97.9,116/81,heart disease,,High
+51,Male,persistent cough and fatigue,181,101.0,112/72,asthma,,Critical
+53,Female,high fever with chills,94,102.9,119/76,none,,Medium
+39,Female,,152,101.5,120/86,none,severe bleeding,Critical
+12,Female,dizziness and slurred speech,153,100.6,136/79,diabetes,severe bleeding,Critical
+21,Male,severe headache with confusion,158,100.1,,none,unconscious,Critical
+35,Male,extreme weakness,76,97.2,101/89,heart disease,,Low
+20,Male,extreme weakness,64,97.5,100/86,heart disease,,Low
+51,Male,joint swelling and stiffness,70,98.4,126/72,none,,Low
+48,Male,joint swelling and stiffness,211,104.4,122/73,asthma,,Critical
+39,Female,severe headache with confusion,157,100.7,132/69,diabetes,suicidal ideation,Critical
+28,Male,severe headache with confusion,80,97.9,124/76,diabetes,,Low
+75,Male,burning sensation in chest,138,97.0,114/70,asthma,,High
+57,Female,tightness spreading to left arm,84,98.3,125/64,diabetes,,Low
+70,Male,,63,98.2,140/69,heart disease,,Low
+49,Male,lower back strain,86,98.4,,asthma,,Low
+36,Male,lower back strain,81,97.1,117/60,hypertension,,Low
+44,Male,burning sensation in chest,120,97.7,127/72,none,,High
+23,Female,,142,99.2,122/82,diabetes,active seizure,Critical
+66,Female,extreme weakness,81,98.3,119/61,asthma,,Low
+35,Female,high fever with chills,62,101.4,106/83,asthma,,Medium
+41,Male,tightness spreading to left arm,96,98.7,140/71,asthma,,Low
+49,Female,,164,101.4,118/76,hypertension,suicidal ideation,Critical
+41,Male,high fever with chills,87,100.5,126/76,none,,Medium
+12,Male,persistent cough and fatigue,61,101.3,133/63,diabetes,,Medium
+42,Female,,79,98.2,138/79,heart disease,,Low
+91,Female,burning sensation in chest,184,97.4,136/79,none,,Critical
+52,Male,extreme weakness,90,98.3,119/63,none,,Low
+8,Female,shortness of breath at rest,136,97.4,,asthma,,High
+39,Male,dizziness and slurred speech,114,98.4,131/69,heart disease,,Low
+61,Female,joint swelling and stiffness,66,98.7,119/78,asthma,,Low
+88,Male,burning sensation in chest,112,98.9,120/83,none,,High
+52,Female,severe headache with confusion,85,98.8,128/86,heart disease,,Low
+23,Male,joint swelling and stiffness,73,97.5,101/87,heart disease,,Low
+55,Female,high fever with chills,85,100.2,120/89,diabetes,,Medium
+34,Male,joint swelling and stiffness,77,97.6,139/67,heart disease,,Low
+92,Male,shortness of breath at rest,146,103.4,125/67,asthma,major trauma,Critical
+53,Female,high fever with chills,89,101.8,134/78,asthma,,Medium
+54,Female,severe headache with confusion,99,98.1,125/66,hypertension,,Low
+66,Female,burning sensation in chest,146,98.7,119/74,none,,High
+20,Male,shortness of breath at rest,78,97.5,112/62,asthma,,High
+53,Male,lower back strain,71,105.8,139/67,diabetes,,Critical
+6,Male,tightness spreading to left arm,60,97.1,124/63,heart disease,,Low
+26,Male,extreme weakness,83,98.1,114/77,diabetes,,Low
+66,Male,persistent cough and fatigue,87,104.6,115/66,asthma,,Critical
+30,Female,burning sensation in chest,164,99.1,113/82,asthma,major trauma,Critical
+47,Female,joint swelling and stiffness,78,98.8,119/63,hypertension,,Low
+38,Male,extreme weakness,61,97.3,,none,,Low
+51,Male,severe headache with confusion,107,98.0,108/83,heart disease,,Low
+53,Female,persistent cough and fatigue,84,101.0,112/86,none,,Medium
+69,Female,extreme weakness,203,97.7,139/74,diabetes,,Critical
+6,Female,high fever with chills,93,103.0,140/69,heart disease,,Medium
+28,Female,dizziness and slurred speech,108,97.3,129/79,hypertension,,Low
+38,Female,burning sensation in chest,127,97.4,116/88,none,,High
+11,Female,tightness spreading to left arm,142,101.5,128/72,hypertension,major trauma,Critical
+69,Female,lower back strain,82,97.3,120/78,asthma,,Low
+37,Female,shortness of breath at rest,124,103.6,129/79,heart disease,active seizure,Critical
+47,Male,sudden crushing chest pain,150,100.5,,diabetes,suicidal ideation,Critical
+62,Male,shortness of breath at rest,117,98.8,118/90,heart disease,,High
+89,Male,lower back strain,96,105.2,111/80,heart disease,,Critical
+51,Male,dizziness and slurred speech,148,103.7,135/85,diabetes,severe bleeding,Critical
+58,Male,lower back strain,76,99.0,133/74,none,,Low
+10,Female,shortness of breath at rest,135,101.6,120/87,hypertension,unconscious,Critical
+57,Female,burning sensation in chest,138,99.7,,diabetes,severe bleeding,Critical
+63,Male,dizziness and slurred speech,114,97.1,127/69,diabetes,,Low
+10,Female,joint swelling and stiffness,89,98.2,100/75,hypertension,,Low
+27,Female,lower back strain,75,97.0,132/61,diabetes,,Low
+11,Male,dizziness and slurred speech,92,98.8,,hypertension,,Low
+29,Male,severe headache with confusion,96,97.5,115/66,asthma,,Low
+48,Male,shortness of breath at rest,122,97.0,137/80,hypertension,,High
+45,Male,shortness of breath at rest,107,98.3,117/70,asthma,,High
+64,Female,sudden crushing chest pain,191,98.9,115/90,none,,Critical
+62,Male,persistent cough and fatigue,71,100.6,113/63,asthma,,Medium
+65,Male,dizziness and slurred speech,89,97.7,130/86,diabetes,,Low
+9,Female,,79,97.8,110/86,heart disease,,Low
+51,Male,sudden crushing chest pain,122,98.7,107/79,none,,High
+36,Female,lower back strain,71,105.4,105/78,none,,Critical
+27,Female,lower back strain,63,104.4,138/78,diabetes,,Critical
+11,Male,tightness spreading to left arm,87,98.4,105/68,none,,Low
+24,Male,burning sensation in chest,121,98.6,123/64,none,,High
+89,Male,lower back strain,74,97.7,111/61,none,,Low
+70,Male,persistent cough and fatigue,133,99.6,100/79,heart disease,suicidal ideation,Critical
+53,Male,shortness of breath at rest,112,97.7,,asthma,,High
+58,Male,severe headache with confusion,147,103.9,133/70,none,major trauma,Critical
+39,Male,joint swelling and stiffness,72,98.0,117/63,asthma,,Low
+75,Male,dizziness and slurred speech,66,97.2,136/80,heart disease,,Low
+74,Female,joint swelling and stiffness,68,97.8,,hypertension,,Low
+69,Female,severe headache with confusion,120,98.1,110/68,hypertension,,Low
+36,Male,persistent cough and fatigue,67,97.9,120/67,hypertension,,Medium
+31,Male,burning sensation in chest,111,97.6,109/77,hypertension,,High
+53,Female,persistent cough and fatigue,68,101.7,111/73,hypertension,,Medium
+73,Female,sudden crushing chest pain,127,98.6,130/84,heart disease,,High
+30,Male,sudden crushing chest pain,217,97.2,119/84,hypertension,,Critical
+89,Female,,91,97.3,117/88,heart disease,,Low
+33,Female,severe headache with confusion,131,101.9,106/67,hypertension,suicidal ideation,Critical
+42,Female,extreme weakness,86,98.0,104/89,heart disease,,Low
+37,Male,burning sensation in chest,145,97.4,136/89,none,,High
+33,Male,lower back strain,85,97.3,136/65,hypertension,,Low
+74,Male,,100,98.0,114/72,asthma,,Low
+7,Female,sudden crushing chest pain,145,98.0,108/79,diabetes,,High
+48,Female,sudden crushing chest pain,144,97.5,140/63,hypertension,,High
+37,Female,tightness spreading to left arm,62,98.8,100/79,asthma,,Low
+34,Female,,85,97.9,127/78,asthma,,Low
+42,Male,extreme weakness,80,98.6,133/80,heart disease,,Low
+85,Female,sudden crushing chest pain,185,98.8,137/66,heart disease,,Critical
+59,Female,sudden crushing chest pain,119,98.4,125/61,heart disease,,High
+36,Male,persistent cough and fatigue,65,100.8,134/70,none,,Medium
+68,Male,burning sensation in chest,168,102.2,130/82,asthma,severe bleeding,Critical
+43,Male,,146,99.3,139/70,diabetes,major trauma,Critical
+28,Female,severe headache with confusion,167,100.7,140/83,none,suicidal ideation,Critical
+25,Male,burning sensation in chest,137,102.9,120/81,hypertension,active seizure,Critical
+75,Female,tightness spreading to left arm,194,97.9,111/85,none,,Critical
+21,Male,tightness spreading to left arm,98,98.7,107/83,asthma,,Low
+54,Male,dizziness and slurred speech,163,101.4,116/71,none,major trauma,Critical
+74,Male,,219,98.4,109/83,asthma,,Critical
+6,Female,sudden crushing chest pain,124,97.1,108/82,diabetes,,High
+23,Male,severe headache with confusion,85,98.7,138/84,asthma,,Low
+36,Male,sudden crushing chest pain,140,97.7,111/79,none,,High
+60,Male,burning sensation in chest,123,97.0,106/73,diabetes,,High
+73,Female,severe headache with confusion,129,102.5,119/68,none,severe bleeding,Critical
+28,Male,severe headache with confusion,102,98.4,137/70,diabetes,,Low
+50,Male,high fever with chills,90,101.0,,none,,Medium
+72,Male,dizziness and slurred speech,103,98.5,100/86,diabetes,,Low
+39,Female,burning sensation in chest,144,99.0,109/73,none,,High
+90,Female,shortness of breath at rest,102,104.7,120/79,heart disease,,Critical
+57,Female,extreme weakness,69,98.6,114/71,heart disease,,Low
+9,Male,shortness of breath at rest,128,97.4,129/72,none,,High
+48,Female,burning sensation in chest,100,98.9,139/61,heart disease,,High
+41,Male,dizziness and slurred speech,90,97.6,113/61,diabetes,,Low
+25,Male,high fever with chills,64,102.6,100/83,heart disease,,Medium
+60,Male,burning sensation in chest,137,98.6,116/61,hypertension,,High
+65,Male,lower back strain,169,99.1,108/83,none,severe bleeding,Critical
+38,Male,severe headache with confusion,98,98.9,108/60,heart disease,,Low
+37,Male,high fever with chills,97,101.3,103/80,asthma,,Medium
+55,Male,,95,98.5,119/66,diabetes,,Low
+27,Female,joint swelling and stiffness,95,97.7,101/64,diabetes,,Low
+93,Female,extreme weakness,84,98.1,116/78,hypertension,,Low
+40,Male,lower back strain,72,98.5,118/86,hypertension,,Low
+26,Male,joint swelling and stiffness,69,97.1,115/89,asthma,,Low
+59,Female,severe headache with confusion,115,97.3,114/79,asthma,,Low
+8,Female,lower back strain,88,99.0,118/61,hypertension,,Low
+37,Female,,69,97.9,109/66,none,,Low
+19,Female,lower back strain,62,97.7,,hypertension,severe bleeding,Critical
+37,Male,sudden crushing chest pain,138,97.5,104/75,none,,High
+39,Female,burning sensation in chest,206,104.4,104/66,heart disease,suicidal ideation,Critical
+61,Male,severe headache with confusion,92,97.8,101/80,asthma,,Low
+42,Male,extreme weakness,69,97.9,140/68,asthma,,Low
+26,Male,high fever with chills,152,100.3,137/73,diabetes,unconscious,Critical
+73,Female,sudden crushing chest pain,100,98.8,140/87,asthma,,High
+61,Female,dizziness and slurred speech,106,98.9,109/67,asthma,,Low
+26,Male,tightness spreading to left arm,128,101.1,108/85,diabetes,active seizure,Critical
+29,Male,tightness spreading to left arm,82,97.7,121/72,heart disease,,Low
+66,Female,sudden crushing chest pain,124,101.9,130/79,heart disease,major trauma,Critical
+48,Male,,60,97.0,133/84,diabetes,,Low
+27,Male,lower back strain,76,98.2,137/65,asthma,,Low
+66,Male,tightness spreading to left arm,75,97.7,136/72,diabetes,,Low
+75,Female,lower back strain,85,98.4,,hypertension,,Low
+54,Female,tightness spreading to left arm,72,98.1,114/83,diabetes,,Low
+54,Male,,92,97.4,129/63,diabetes,,Low
+56,Male,,60,97.3,127/60,diabetes,,Low
+35,Male,tightness spreading to left arm,67,98.1,112/67,heart disease,,Low
+26,Female,lower back strain,64,97.0,,diabetes,major trauma,Critical
+59,Female,lower back strain,67,98.0,122/66,asthma,,Low
+90,Male,lower back strain,94,98.6,119/79,diabetes,,Low
+6,Male,shortness of breath at rest,141,97.2,114/80,heart disease,,High
+19,Male,shortness of breath at rest,113,97.3,126/60,diabetes,,High
+18,Male,severe headache with confusion,85,97.8,107/62,heart disease,,Low
+5,Male,sudden crushing chest pain,116,98.1,128/71,none,,High
+21,Female,persistent cough and fatigue,91,102.4,113/83,none,,Medium
+52,Male,extreme weakness,74,98.5,135/83,hypertension,,Low
+63,Male,shortness of breath at rest,120,98.7,110/66,asthma,,High
+55,Female,dizziness and slurred speech,92,97.2,117/79,heart disease,,Low
+88,Male,severe headache with confusion,169,102.5,132/85,hypertension,unconscious,Critical
+59,Male,severe headache with confusion,109,99.0,112/71,asthma,,Low
+64,Female,persistent cough and fatigue,71,101.9,133/66,heart disease,,Medium
+23,Male,dizziness and slurred speech,167,100.6,135/79,hypertension,major trauma,Critical
+59,Female,,68,97.7,117/72,diabetes,,Low
+93,Male,burning sensation in chest,133,105.4,105/71,asthma,,Critical
+65,Male,extreme weakness,68,97.3,128/60,hypertension,,Low
+38,Female,lower back strain,66,98.1,115/85,diabetes,,Low
+89,Female,high fever with chills,99,100.4,139/88,heart disease,,Medium
+44,Female,extreme weakness,67,97.4,139/74,none,,Low
+27,Male,persistent cough and fatigue,88,102.5,,hypertension,,Medium
+42,Female,,92,97.1,109/69,heart disease,,Low
+37,Female,sudden crushing chest pain,119,98.6,114/84,none,,High
+60,Female,joint swelling and stiffness,64,97.2,107/74,heart disease,,Low
+68,Male,extreme weakness,100,97.6,,none,,Low
+35,Female,sudden crushing chest pain,147,97.6,123/81,asthma,,High
+12,Male,extreme weakness,71,97.5,103/70,heart disease,,Low
+72,Male,tightness spreading to left arm,91,97.0,123/75,none,,Low
+36,Male,,134,101.0,112/63,asthma,major trauma,Critical
+74,Female,shortness of breath at rest,144,98.1,118/75,asthma,,High
+90,Male,,60,98.2,134/86,asthma,,Low
+24,Female,burning sensation in chest,144,98.3,133/75,heart disease,,High
+28,Male,tightness spreading to left arm,93,98.5,114/81,diabetes,,Low
+75,Female,persistent cough and fatigue,61,100.2,126/60,hypertension,,Medium
+32,Female,persistent cough and fatigue,82,101.9,102/67,hypertension,,Medium
+26,Male,lower back strain,85,98.1,129/90,none,,Low
+5,Male,dizziness and slurred speech,88,98.4,133/66,asthma,,Low
+44,Male,,67,98.5,121/67,diabetes,,Low
+61,Female,joint swelling and stiffness,60,97.3,129/83,none,,Low
+38,Male,dizziness and slurred speech,159,101.9,,heart disease,active seizure,Critical
+29,Male,joint swelling and stiffness,64,97.5,109/84,none,,Low
+29,Female,sudden crushing chest pain,208,97.5,108/71,none,,Critical
+71,Male,persistent cough and fatigue,69,101.5,111/62,none,,Medium
+94,Female,persistent cough and fatigue,62,101.5,108/67,hypertension,,Medium
+30,Male,,98,97.0,125/86,asthma,,Low
+36,Female,dizziness and slurred speech,103,97.8,126/70,diabetes,,Low
+72,Female,severe headache with confusion,91,98.1,136/85,asthma,,Low
+22,Male,high fever with chills,69,102.8,125/69,diabetes,,Medium
+92,Male,tightness spreading to left arm,76,98.4,140/87,asthma,,Low
+39,Male,high fever with chills,79,101.5,126/88,none,,Medium
+59,Female,extreme weakness,65,97.9,113/73,hypertension,,Low
+59,Female,sudden crushing chest pain,136,99.9,107/60,heart disease,unconscious,Critical
+92,Male,shortness of breath at rest,145,101.3,117/74,none,unconscious,Critical
+58,Female,high fever with chills,164,99.2,138/70,hypertension,major trauma,Critical
+43,Male,shortness of breath at rest,135,97.8,109/76,asthma,,High
+19,Male,,129,103.0,137/77,asthma,active seizure,Critical
+47,Female,,78,98.8,112/65,heart disease,,Low
+9,Male,high fever with chills,87,100.8,101/88,diabetes,,Medium
+68,Male,persistent cough and fatigue,73,101.9,117/85,diabetes,,Medium
+62,Male,joint swelling and stiffness,142,101.1,,hypertension,unconscious,Critical
+57,Male,sudden crushing chest pain,211,98.5,125/67,asthma,,Critical
+72,Male,extreme weakness,63,98.3,114/64,heart disease,,Low
+86,Female,extreme weakness,91,105.7,105/76,diabetes,,Critical
+54,Female,shortness of breath at rest,126,98.1,122/89,heart disease,,High
+56,Female,tightness spreading to left arm,131,101.9,113/81,none,suicidal ideation,Critical
+22,Female,burning sensation in chest,121,99.0,131/78,asthma,,High
+32,Male,persistent cough and fatigue,90,100.7,119/85,hypertension,,Medium
+20,Female,sudden crushing chest pain,134,97.3,,heart disease,,High
+10,Male,tightness spreading to left arm,134,102.7,132/83,heart disease,severe bleeding,Critical
+45,Male,tightness spreading to left arm,68,97.0,,none,,Low
+25,Female,extreme weakness,70,97.0,109/84,heart disease,,Low
+85,Male,dizziness and slurred speech,98,97.7,137/65,none,,Low
+11,Female,sudden crushing chest pain,147,97.3,126/80,none,,High
+31,Male,dizziness and slurred speech,156,102.0,130/68,asthma,active seizure,Critical
+86,Female,dizziness and slurred speech,91,98.7,107/71,heart disease,,Low
+65,Male,tightness spreading to left arm,89,98.6,,asthma,,Low
+74,Female,burning sensation in chest,134,98.4,,diabetes,,High
+33,Male,tightness spreading to left arm,83,97.7,132/87,hypertension,,Low
+55,Female,,142,99.6,105/73,diabetes,severe bleeding,Critical
+32,Female,sudden crushing chest pain,111,98.0,,heart disease,,High
+7,Male,severe headache with confusion,93,97.8,103/87,hypertension,,Low
+32,Female,tightness spreading to left arm,66,98.1,109/70,none,,Low
+43,Female,sudden crushing chest pain,149,98.6,111/70,hypertension,,High
+37,Male,lower back strain,64,97.9,126/90,asthma,,Low
+44,Female,tightness spreading to left arm,77,97.8,137/88,hypertension,,Low
+35,Male,extreme weakness,84,98.8,137/79,none,,Low
+67,Male,sudden crushing chest pain,105,97.1,115/74,hypertension,,High
+61,Male,joint swelling and stiffness,69,98.2,113/85,asthma,,Low
+42,Male,lower back strain,70,98.2,111/78,heart disease,,Low
+68,Male,lower back strain,165,103.4,131/68,none,unconscious,Critical
+47,Female,persistent cough and fatigue,139,100.2,119/73,none,active seizure,Critical
+31,Female,sudden crushing chest pain,125,98.3,129/77,diabetes,,High
+57,Female,dizziness and slurred speech,104,97.7,130/76,heart disease,,Low
+92,Male,,77,98.4,117/78,hypertension,,Low
+41,Female,dizziness and slurred speech,90,97.2,102/78,none,,Low
+18,Female,,87,97.2,110/62,hypertension,,Low
+48,Female,lower back strain,97,97.1,109/74,diabetes,,Low
+89,Male,severe headache with confusion,104,97.5,122/85,hypertension,,Low
+91,Male,joint swelling and stiffness,79,97.9,125/78,hypertension,,Low
+74,Male,high fever with chills,98,100.0,139/62,hypertension,,Medium
+73,Female,burning sensation in chest,100,97.9,120/88,diabetes,,High
+74,Male,tightness spreading to left arm,165,99.4,133/61,diabetes,unconscious,Critical
+25,Male,extreme weakness,86,97.4,110/67,none,,Low
+37,Male,extreme weakness,94,99.0,132/61,none,,Low
+58,Female,,68,98.2,135/88,none,,Low
+37,Female,extreme weakness,85,97.2,136/74,none,,Low
+6,Female,joint swelling and stiffness,95,97.0,137/64,heart disease,,Low
+47,Female,joint swelling and stiffness,153,100.9,101/60,heart disease,severe bleeding,Critical
+33,Male,dizziness and slurred speech,130,105.6,115/64,none,suicidal ideation,Critical
+40,Female,shortness of breath at rest,125,98.1,134/74,hypertension,,High
+71,Female,high fever with chills,79,103.0,115/60,asthma,,Medium
+6,Female,tightness spreading to left arm,66,98.6,126/72,none,,Low
+20,Female,burning sensation in chest,132,97.5,100/81,heart disease,,High
+34,Male,,71,104.9,110/73,asthma,,Critical
+23,Male,joint swelling and stiffness,167,99.8,122/74,none,major trauma,Critical
+39,Female,high fever with chills,154,102.6,127/66,diabetes,suicidal ideation,Critical
+38,Female,joint swelling and stiffness,89,98.2,115/75,none,,Low
+29,Male,,89,97.1,132/80,hypertension,,Low
+40,Male,tightness spreading to left arm,87,97.2,,asthma,,Low
+7,Female,sudden crushing chest pain,131,97.5,123/90,hypertension,,High
+38,Male,joint swelling and stiffness,157,101.9,120/65,hypertension,severe bleeding,Critical
+26,Male,dizziness and slurred speech,92,97.9,106/86,diabetes,,Low
+33,Male,joint swelling and stiffness,97,97.6,122/83,hypertension,,Low
+57,Male,,91,97.6,121/81,asthma,,Low
+66,Male,burning sensation in chest,127,99.8,102/82,none,severe bleeding,Critical
+62,Female,burning sensation in chest,127,98.3,106/70,none,,High
+93,Female,burning sensation in chest,210,98.9,133/86,diabetes,,Critical
+75,Male,lower back strain,149,100.1,116/63,asthma,suicidal ideation,Critical
+66,Female,tightness spreading to left arm,76,98.5,108/67,asthma,,Low
+26,Male,joint swelling and stiffness,100,98.5,,asthma,,Low
+51,Male,shortness of breath at rest,137,98.6,,diabetes,,High
+49,Female,sudden crushing chest pain,118,97.2,117/78,hypertension,,High
+18,Male,high fever with chills,182,101.2,138/81,diabetes,major trauma,Critical
+56,Female,,158,101.8,101/73,none,unconscious,Critical
+37,Female,,78,97.6,103/89,none,,Low
+57,Female,tightness spreading to left arm,143,103.9,128/71,asthma,suicidal ideation,Critical
+24,Female,tightness spreading to left arm,95,97.1,130/72,none,,Low
+50,Male,persistent cough and fatigue,99,101.8,104/72,asthma,,Medium
+63,Female,tightness spreading to left arm,66,97.1,111/60,heart disease,,Low
+44,Male,persistent cough and fatigue,83,102.9,102/79,heart disease,,Medium
+61,Male,joint swelling and stiffness,81,98.5,129/80,diabetes,,Low
+49,Male,,65,98.3,139/68,asthma,,Low
+64,Female,lower back strain,169,100.8,136/63,hypertension,unconscious,Critical
+18,Female,joint swelling and stiffness,70,98.1,,diabetes,,Low
+24,Female,extreme weakness,62,98.6,,diabetes,,Low
+62,Female,sudden crushing chest pain,111,97.6,116/78,asthma,,High
+41,Female,tightness spreading to left arm,144,101.4,,none,unconscious,Critical
+91,Male,joint swelling and stiffness,83,97.8,111/87,hypertension,,Low
+34,Male,joint swelling and stiffness,72,97.4,109/87,asthma,,Low
+34,Male,persistent cough and fatigue,73,104.8,,none,,Critical
+30,Female,,68,98.5,126/71,heart disease,,Low
+41,Female,,156,103.6,121/61,asthma,suicidal ideation,Critical
+55,Male,high fever with chills,96,101.9,132/68,hypertension,,Medium
+5,Male,sudden crushing chest pain,135,98.2,104/70,heart disease,,High
+65,Female,,63,97.6,137/73,heart disease,,Low
+23,Female,severe headache with confusion,157,103.7,106/84,none,severe bleeding,Critical
+21,Male,,148,100.9,134/79,diabetes,major trauma,Critical
+19,Male,shortness of breath at rest,135,97.6,107/89,none,,High
+24,Male,severe headache with confusion,107,97.1,104/60,diabetes,,Low
+45,Male,shortness of breath at rest,138,97.8,120/81,diabetes,,High
+24,Female,dizziness and slurred speech,125,99.9,102/77,hypertension,suicidal ideation,Critical
+65,Male,high fever with chills,214,105.0,120/84,diabetes,,Critical
+24,Female,high fever with chills,62,100.7,132/67,diabetes,,Medium
+48,Male,burning sensation in chest,115,98.7,131/71,none,,High
+41,Female,severe headache with confusion,208,105.4,100/76,diabetes,,Critical
+69,Female,,74,98.6,110/85,none,,Low
+69,Female,dizziness and slurred speech,83,97.1,114/75,asthma,,Low
+85,Female,extreme weakness,79,98.9,116/71,diabetes,,Low
+34,Female,shortness of breath at rest,148,97.7,128/60,diabetes,,High
+23,Female,extreme weakness,85,97.3,119/63,heart disease,,Low
+27,Male,burning sensation in chest,127,98.0,102/67,asthma,,High
+71,Female,dizziness and slurred speech,108,98.4,139/83,asthma,,Low
+64,Male,lower back strain,161,100.9,130/71,hypertension,unconscious,Critical
+45,Male,shortness of breath at rest,204,98.2,133/85,asthma,,Critical
+63,Male,joint swelling and stiffness,86,98.1,139/77,hypertension,,Low
+91,Male,severe headache with confusion,113,98.4,106/72,diabetes,,Low
+20,Female,tightness spreading to left arm,97,104.4,107/74,heart disease,,Critical
+45,Male,joint swelling and stiffness,93,98.8,116/88,heart disease,,Low
+67,Male,joint swelling and stiffness,71,98.3,132/60,diabetes,,Low
+26,Female,sudden crushing chest pain,108,99.0,119/65,heart disease,,High
+88,Male,sudden crushing chest pain,146,105.6,101/87,hypertension,,Critical
+28,Male,shortness of breath at rest,103,97.3,135/83,hypertension,,High
+42,Female,joint swelling and stiffness,127,104.0,117/88,hypertension,severe bleeding,Critical
+43,Male,severe headache with confusion,114,97.2,122/69,hypertension,,Low
+63,Male,high fever with chills,67,100.5,132/71,diabetes,,Medium
+73,Female,severe headache with confusion,104,97.6,139/64,hypertension,,Low
+35,Female,,71,97.3,109/69,heart disease,,Low
+44,Female,high fever with chills,81,101.7,137/69,heart disease,,Medium
+90,Female,tightness spreading to left arm,61,97.3,122/87,heart disease,,Low
+61,Male,joint swelling and stiffness,79,98.7,139/70,heart disease,,Low
+61,Male,high fever with chills,96,102.7,120/73,asthma,,Medium
+60,Male,lower back strain,74,98.3,117/85,hypertension,,Low
+27,Female,persistent cough and fatigue,98,102.7,101/89,asthma,,Medium
+59,Male,joint swelling and stiffness,100,97.5,122/73,hypertension,,Low
+86,Male,shortness of breath at rest,109,98.6,108/76,none,,High
+60,Male,shortness of breath at rest,122,98.2,136/72,heart disease,,High
+53,Female,lower back strain,79,98.2,121/60,diabetes,,Low
+42,Male,sudden crushing chest pain,155,100.0,112/77,none,active seizure,Critical
+26,Female,severe headache with confusion,82,98.6,105/64,hypertension,,Low
+70,Male,shortness of breath at rest,141,97.5,,asthma,,High
+21,Female,persistent cough and fatigue,152,104.6,,hypertension,suicidal ideation,Critical
+18,Female,tightness spreading to left arm,82,97.6,114/60,diabetes,,Low
+50,Female,persistent cough and fatigue,96,100.7,101/89,hypertension,,Medium
+23,Male,,76,97.8,126/68,heart disease,,Low
+49,Female,sudden crushing chest pain,151,102.9,115/72,none,unconscious,Critical
+33,Female,dizziness and slurred speech,80,98.3,,diabetes,,Low
+88,Male,high fever with chills,149,99.7,134/62,heart disease,major trauma,Critical
+31,Female,high fever with chills,85,101.2,124/76,asthma,,Medium
+12,Female,severe headache with confusion,114,97.6,120/71,diabetes,,Low
+70,Male,,95,97.8,,heart disease,,Low
+35,Male,severe headache with confusion,96,98.9,106/66,asthma,,Low
+59,Male,extreme weakness,62,97.4,106/88,diabetes,,Low
+33,Male,burning sensation in chest,109,98.6,115/80,diabetes,,High
+30,Female,sudden crushing chest pain,119,97.2,130/88,hypertension,,High
+21,Female,sudden crushing chest pain,113,99.0,139/61,asthma,,High
+26,Female,dizziness and slurred speech,91,97.2,125/76,heart disease,,Low
+55,Male,high fever with chills,82,101.6,114/63,none,,Medium
+62,Female,extreme weakness,92,98.0,129/87,asthma,,Low
+74,Female,shortness of breath at rest,116,98.2,138/79,hypertension,,High
+56,Male,tightness spreading to left arm,94,98.3,,hypertension,,Low
+61,Female,sudden crushing chest pain,167,102.1,100/68,none,severe bleeding,Critical
+66,Male,extreme weakness,128,103.5,105/79,asthma,major trauma,Critical
+9,Female,sudden crushing chest pain,139,97.8,136/81,diabetes,,High
+21,Male,shortness of breath at rest,118,97.6,,hypertension,,High
+7,Female,high fever with chills,130,102.6,140/61,heart disease,severe bleeding,Critical
+5,Male,severe headache with confusion,110,98.1,,none,,Low
+45,Female,burning sensation in chest,71,97.5,127/75,none,,High
+12,Female,extreme weakness,77,97.0,129/62,none,,Low
+52,Female,joint swelling and stiffness,69,97.4,114/74,heart disease,,Low
+69,Male,tightness spreading to left arm,98,98.5,113/74,diabetes,,Low
+39,Female,shortness of breath at rest,147,97.6,101/71,none,,High
+57,Female,persistent cough and fatigue,96,101.4,100/75,none,,Medium
+48,Female,burning sensation in chest,164,103.1,126/86,hypertension,major trauma,Critical
+38,Female,dizziness and slurred speech,107,98.7,115/90,none,,Low
+69,Male,high fever with chills,91,100.1,129/64,none,,Medium
+39,Female,shortness of breath at rest,106,97.8,122/60,diabetes,,High
+37,Female,extreme weakness,141,102.8,,diabetes,severe bleeding,Critical
+35,Male,tightness spreading to left arm,63,105.6,134/64,hypertension,,Critical
+39,Female,,145,102.5,140/89,heart disease,unconscious,Critical
+94,Female,lower back strain,79,97.2,109/76,diabetes,,Low
+11,Male,extreme weakness,152,103.4,127/81,asthma,active seizure,Critical
+37,Male,dizziness and slurred speech,167,100.6,130/60,none,suicidal ideation,Critical
+31,Male,shortness of breath at rest,104,99.0,139/63,diabetes,,High
+68,Male,shortness of breath at rest,139,97.1,118/73,hypertension,,High
+88,Female,persistent cough and fatigue,75,102.9,117/71,hypertension,,Medium
+95,Female,sudden crushing chest pain,150,97.1,135/63,diabetes,,High
+31,Male,burning sensation in chest,105,97.6,138/85,heart disease,,High
+22,Female,,95,97.2,122/69,heart disease,,Low
+31,Female,severe headache with confusion,87,97.8,101/65,diabetes,,Low
+8,Female,joint swelling and stiffness,89,97.3,140/69,hypertension,,Low
+6,Female,burning sensation in chest,121,97.4,118/63,diabetes,,High
+63,Female,shortness of breath at rest,139,97.1,,none,,High
+34,Female,joint swelling and stiffness,66,97.0,139/78,hypertension,,Low
+51,Male,severe headache with confusion,94,104.7,,asthma,,Critical
+9,Male,joint swelling and stiffness,60,97.6,107/69,heart disease,,Low
+51,Male,persistent cough and fatigue,63,102.5,139/82,heart disease,,Medium
+10,Male,sudden crushing chest pain,123,98.5,130/70,hypertension,,High
+62,Female,extreme weakness,62,98.4,134/71,none,,Low
+31,Male,shortness of breath at rest,76,97.7,111/71,heart disease,,High
+64,Male,,65,98.5,109/87,asthma,,Low
+46,Female,tightness spreading to left arm,153,100.8,112/68,asthma,severe bleeding,Critical
+94,Male,tightness spreading to left arm,61,98.6,132/67,heart disease,,Low
+28,Female,persistent cough and fatigue,76,100.2,133/75,heart disease,,Medium
+44,Female,tightness spreading to left arm,99,99.0,131/77,diabetes,,Low
+50,Female,shortness of breath at rest,129,98.8,111/80,hypertension,,High
+34,Female,persistent cough and fatigue,70,100.7,104/65,diabetes,,Medium
+71,Male,high fever with chills,93,101.1,120/69,none,,Medium
+28,Female,tightness spreading to left arm,153,99.4,108/63,diabetes,major trauma,Critical
+49,Male,burning sensation in chest,157,102.6,128/60,hypertension,unconscious,Critical
+74,Male,extreme weakness,93,98.9,101/64,asthma,,Low
+40,Male,severe headache with confusion,91,97.2,,asthma,,Low
+32,Female,,60,98.6,104/69,asthma,,Low
+53,Female,burning sensation in chest,107,98.3,136/86,heart disease,,High
+93,Male,dizziness and slurred speech,115,99.0,126/75,asthma,,Low
+55,Female,sudden crushing chest pain,145,97.2,,heart disease,,High
+73,Male,high fever with chills,133,100.7,128/78,hypertension,active seizure,Critical
+38,Male,joint swelling and stiffness,63,97.5,114/79,none,,Low
+72,Female,burning sensation in chest,133,103.7,102/63,hypertension,severe bleeding,Critical
+53,Male,joint swelling and stiffness,64,97.3,126/77,diabetes,,Low
+44,Male,burning sensation in chest,106,97.3,129/61,heart disease,,High
+8,Male,,81,98.5,128/69,diabetes,,Low
+63,Female,dizziness and slurred speech,95,104.5,,asthma,,Critical
+53,Female,severe headache with confusion,82,98.0,100/76,heart disease,,Low
+60,Female,sudden crushing chest pain,128,98.3,132/66,diabetes,,High
+51,Female,shortness of breath at rest,164,103.4,121/74,none,major trauma,Critical
+73,Female,joint swelling and stiffness,99,97.7,117/65,diabetes,,Low
+93,Female,joint swelling and stiffness,164,102.8,138/81,diabetes,active seizure,Critical
+65,Male,persistent cough and fatigue,182,100.6,134/84,asthma,,Critical
+39,Female,persistent cough and fatigue,100,101.9,138/71,diabetes,,Medium
+42,Female,,84,97.9,135/62,asthma,,Low
+12,Male,joint swelling and stiffness,61,98.9,106/85,none,,Low
+54,Male,joint swelling and stiffness,71,98.7,101/64,asthma,,Low
+12,Male,tightness spreading to left arm,77,98.4,110/87,asthma,,Low
+65,Female,lower back strain,62,98.0,121/81,asthma,,Low
+49,Male,persistent cough and fatigue,165,99.6,103/90,none,severe bleeding,Critical
+92,Male,shortness of breath at rest,118,98.3,132/68,diabetes,,High
+74,Male,,80,98.9,132/71,heart disease,,Low
+65,Male,joint swelling and stiffness,87,98.9,107/69,asthma,,Low
+12,Male,joint swelling and stiffness,62,98.2,113/90,hypertension,,Low
+11,Female,,73,98.3,108/85,asthma,,Low
+29,Male,dizziness and slurred speech,83,99.0,100/75,diabetes,,Low
+74,Female,high fever with chills,80,102.5,138/89,hypertension,,Medium
+67,Male,high fever with chills,64,100.6,102/90,hypertension,,Medium
+7,Male,shortness of breath at rest,132,97.4,105/62,diabetes,,High
+53,Female,persistent cough and fatigue,94,101.3,102/80,diabetes,,Medium
+66,Female,,90,97.9,134/83,hypertension,,Low
+44,Male,persistent cough and fatigue,62,103.0,128/80,asthma,,Medium
+45,Male,,63,98.5,136/79,diabetes,,Low
+26,Male,extreme weakness,90,97.3,122/66,none,,Low
+67,Female,lower back strain,81,97.7,130/87,asthma,,Low
+68,Female,joint swelling and stiffness,60,97.5,102/85,heart disease,,Low
+46,Female,burning sensation in chest,102,98.1,134/85,diabetes,,High
+89,Female,burning sensation in chest,132,98.6,107/71,asthma,,High
+18,Female,severe headache with confusion,70,97.7,119/90,asthma,,Low
+69,Female,dizziness and slurred speech,82,98.0,,diabetes,,Low
+59,Female,severe headache with confusion,114,97.4,125/65,asthma,,Low
+9,Female,burning sensation in chest,139,98.1,133/70,none,,High
+52,Male,tightness spreading to left arm,99,105.3,,heart disease,,Critical
+18,Male,burning sensation in chest,131,102.8,112/61,hypertension,active seizure,Critical
+32,Male,high fever with chills,68,100.6,109/63,asthma,,Medium
+28,Male,burning sensation in chest,137,99.1,116/69,none,suicidal ideation,Critical
+39,Female,dizziness and slurred speech,162,100.8,127/60,asthma,major trauma,Critical
+90,Male,sudden crushing chest pain,108,98.7,139/69,none,,High
+26,Female,burning sensation in chest,150,98.4,100/69,none,,High
+9,Male,extreme weakness,160,100.9,,diabetes,suicidal ideation,Critical
+64,Female,extreme weakness,130,100.4,126/77,hypertension,severe bleeding,Critical
+75,Female,persistent cough and fatigue,97,101.6,118/77,hypertension,,Medium
+92,Male,high fever with chills,90,101.7,108/86,heart disease,,Medium
+95,Female,sudden crushing chest pain,128,97.0,105/88,hypertension,,High
+31,Female,,72,97.3,123/65,asthma,,Low
+38,Male,persistent cough and fatigue,60,104.5,119/70,asthma,,Critical
+30,Female,shortness of breath at rest,146,102.7,101/90,heart disease,unconscious,Critical
+19,Male,lower back strain,200,97.6,103/76,none,,Critical
+31,Female,high fever with chills,79,100.3,,heart disease,,Medium
+22,Male,sudden crushing chest pain,165,103.3,133/61,none,active seizure,Critical
+30,Male,tightness spreading to left arm,95,98.7,132/70,hypertension,,Low
+36,Female,high fever with chills,91,100.5,105/67,diabetes,,Medium
+53,Male,burning sensation in chest,145,98.7,,diabetes,,High
+74,Female,tightness spreading to left arm,132,100.8,126/86,asthma,unconscious,Critical
+10,Female,lower back strain,67,98.1,124/86,asthma,,Low
+40,Male,burning sensation in chest,123,97.2,132/75,none,,High
+87,Female,tightness spreading to left arm,89,97.7,138/69,heart disease,,Low
+51,Female,high fever with chills,162,100.9,115/75,heart disease,active seizure,Critical
+40,Female,shortness of breath at rest,168,101.9,124/76,heart disease,major trauma,Critical
+60,Female,shortness of breath at rest,163,105.2,127/86,diabetes,active seizure,Critical
+75,Male,extreme weakness,74,97.8,133/66,asthma,,Low
+36,Male,sudden crushing chest pain,130,97.9,139/71,diabetes,,High
+22,Male,burning sensation in chest,146,98.7,126/71,diabetes,,High
+11,Male,dizziness and slurred speech,110,98.4,120/62,asthma,,Low
+32,Male,sudden crushing chest pain,150,105.5,,asthma,suicidal ideation,Critical
+58,Male,high fever with chills,85,100.6,122/65,none,,Medium
+63,Female,extreme weakness,87,97.6,129/71,asthma,,Low
+37,Female,,90,97.5,128/76,diabetes,,Low
+74,Male,shortness of breath at rest,105,97.5,129/74,heart disease,,High
+65,Male,sudden crushing chest pain,136,98.4,110/60,asthma,,High
+43,Female,tightness spreading to left arm,75,98.9,114/85,heart disease,,Low
+62,Female,high fever with chills,65,100.5,120/63,diabetes,,Medium
+28,Female,extreme weakness,144,100.9,114/78,hypertension,unconscious,Critical
+55,Female,severe headache with confusion,168,101.5,101/85,asthma,active seizure,Critical
+90,Female,joint swelling and stiffness,99,98.7,127/75,hypertension,,Low
+48,Male,severe headache with confusion,83,97.3,129/64,asthma,,Low
+56,Female,,98,98.0,117/72,hypertension,,Low
+9,Female,severe headache with confusion,86,98.9,111/66,asthma,,Low
+69,Female,shortness of breath at rest,109,98.5,100/60,none,,High
+53,Female,high fever with chills,66,101.0,106/71,diabetes,,Medium
+41,Male,high fever with chills,141,99.9,,hypertension,active seizure,Critical
+32,Male,severe headache with confusion,93,97.7,116/84,heart disease,,Low
+52,Female,tightness spreading to left arm,133,103.3,103/78,asthma,active seizure,Critical
+37,Female,lower back strain,89,98.1,118/82,asthma,,Low
+54,Female,shortness of breath at rest,123,98.7,115/90,asthma,,High
+95,Male,sudden crushing chest pain,115,98.3,109/73,hypertension,,High
+36,Female,extreme weakness,97,99.0,111/70,hypertension,,Low
+88,Male,extreme weakness,127,100.1,127/62,heart disease,suicidal ideation,Critical
+25,Male,high fever with chills,81,101.4,112/67,heart disease,,Medium
+20,Male,,60,97.8,124/73,hypertension,,Low
+95,Female,tightness spreading to left arm,150,101.6,,hypertension,major trauma,Critical
+92,Female,sudden crushing chest pain,143,103.6,126/70,none,major trauma,Critical
+67,Male,tightness spreading to left arm,69,98.4,110/64,heart disease,,Low
+64,Male,burning sensation in chest,134,98.1,111/83,heart disease,,High
+68,Male,dizziness and slurred speech,111,98.2,109/82,hypertension,,Low
+23,Male,burning sensation in chest,148,97.3,121/86,none,,High
+42,Male,high fever with chills,70,102.2,,hypertension,,Medium
+35,Female,persistent cough and fatigue,72,100.2,127/85,asthma,,Medium
+92,Female,shortness of breath at rest,133,105.2,134/67,diabetes,,Critical
+94,Male,joint swelling and stiffness,66,97.0,107/67,none,,Low
+59,Male,burning sensation in chest,109,98.3,122/64,none,,High
+58,Male,burning sensation in chest,129,98.7,,asthma,,High
+43,Male,extreme weakness,82,98.3,123/81,asthma,,Low
+40,Female,shortness of breath at rest,150,98.1,133/77,hypertension,,High
+74,Male,severe headache with confusion,94,98.9,132/86,diabetes,,Low
+85,Male,high fever with chills,97,104.8,108/84,none,,Critical
+56,Female,sudden crushing chest pain,113,104.3,140/83,none,,Critical
+45,Female,joint swelling and stiffness,77,97.3,133/66,none,,Low
+85,Female,dizziness and slurred speech,87,98.7,111/60,diabetes,,Low
+49,Male,dizziness and slurred speech,102,98.8,125/69,asthma,,Low
+25,Male,persistent cough and fatigue,142,100.4,120/68,heart disease,major trauma,Critical
+34,Male,shortness of breath at rest,115,97.8,111/70,diabetes,,High
+68,Male,severe headache with confusion,111,98.6,,diabetes,,Low
+21,Female,dizziness and slurred speech,111,98.2,,asthma,,Low
+40,Male,persistent cough and fatigue,191,100.8,114/90,asthma,,Critical
+23,Male,extreme weakness,99,97.4,118/71,asthma,,Low
+42,Male,extreme weakness,63,97.7,107/70,hypertension,,Low
+12,Male,dizziness and slurred speech,118,97.1,139/87,hypertension,,Low
+6,Female,extreme weakness,100,97.6,129/61,heart disease,,Low
+74,Male,joint swelling and stiffness,88,98.2,100/88,asthma,,Low
+46,Male,severe headache with confusion,137,101.6,105/80,none,severe bleeding,Critical
+33,Male,severe headache with confusion,127,101.2,108/90,diabetes,active seizure,Critical
+40,Female,extreme weakness,89,97.6,,asthma,,Low
+50,Male,joint swelling and stiffness,96,97.5,102/73,asthma,,Low
+18,Male,tightness spreading to left arm,91,98.8,122/82,hypertension,,Low
+51,Female,persistent cough and fatigue,99,100.1,122/66,diabetes,,Medium
+46,Male,dizziness and slurred speech,117,97.4,106/82,asthma,,Low
+45,Male,joint swelling and stiffness,93,98.4,110/71,asthma,,Low
+65,Female,extreme weakness,100,97.5,135/86,diabetes,,Low
+38,Female,extreme weakness,77,97.2,127/76,hypertension,,Low
+67,Female,,87,98.6,123/67,asthma,,Low
+54,Male,extreme weakness,81,98.0,127/65,diabetes,,Low
+74,Male,high fever with chills,81,100.1,104/69,none,,Medium
+65,Male,dizziness and slurred speech,151,100.8,103/60,hypertension,active seizure,Critical
+33,Female,high fever with chills,143,101.4,124/65,heart disease,severe bleeding,Critical
+36,Male,burning sensation in chest,128,97.1,113/80,heart disease,,High
+72,Male,lower back strain,100,97.4,132/73,diabetes,,Low
+34,Male,severe headache with confusion,168,101.4,133/77,hypertension,unconscious,Critical
+55,Male,extreme weakness,78,97.5,124/90,asthma,,Low
+25,Male,severe headache with confusion,109,98.0,104/88,diabetes,,Low
+44,Female,severe headache with confusion,118,98.5,121/74,asthma,,Low
+30,Male,extreme weakness,144,100.6,126/63,heart disease,unconscious,Critical
+21,Female,tightness spreading to left arm,60,97.4,,none,,Low
+72,Male,extreme weakness,135,103.3,104/63,diabetes,suicidal ideation,Critical
+49,Male,severe headache with confusion,137,99.0,,asthma,severe bleeding,Critical
+23,Female,joint swelling and stiffness,65,98.2,110/88,none,,Low
+35,Male,burning sensation in chest,146,100.8,116/86,hypertension,active seizure,Critical
+12,Female,severe headache with confusion,114,98.2,101/74,asthma,,Low
+6,Female,high fever with chills,167,103.5,103/66,heart disease,major trauma,Critical
+54,Male,high fever with chills,156,101.7,124/67,hypertension,suicidal ideation,Critical
+51,Male,high fever with chills,72,101.9,135/60,none,,Medium
+35,Male,dizziness and slurred speech,105,97.9,100/68,none,,Low
+71,Male,dizziness and slurred speech,86,98.7,100/76,diabetes,,Low
+36,Male,extreme weakness,75,98.1,110/85,diabetes,,Low
+26,Male,joint swelling and stiffness,67,97.8,114/87,diabetes,,Low
+90,Female,tightness spreading to left arm,85,97.8,,diabetes,,Low
+21,Male,joint swelling and stiffness,79,98.4,140/80,diabetes,,Low
+42,Female,severe headache with confusion,119,98.7,112/69,asthma,,Low
+73,Female,persistent cough and fatigue,70,100.4,136/90,hypertension,,Medium
+11,Female,burning sensation in chest,197,97.9,116/77,asthma,,Critical
+44,Male,persistent cough and fatigue,137,100.2,136/82,asthma,suicidal ideation,Critical
+65,Female,,89,99.0,130/82,none,,Low
+25,Female,extreme weakness,120,103.5,127/62,hypertension,severe bleeding,Critical
+25,Female,joint swelling and stiffness,80,98.6,107/90,none,,Low
+39,Female,high fever with chills,133,99.8,139/87,asthma,major trauma,Critical
+57,Female,sudden crushing chest pain,199,97.8,,hypertension,,Critical
+69,Female,joint swelling and stiffness,61,98.0,102/77,asthma,,Low
+41,Female,tightness spreading to left arm,100,97.2,137/77,none,,Low
+39,Female,severe headache with confusion,91,98.8,135/83,diabetes,,Low
+38,Male,persistent cough and fatigue,86,101.8,115/87,diabetes,,Medium
+18,Male,high fever with chills,99,100.5,105/74,hypertension,,Medium
+33,Female,dizziness and slurred speech,94,98.7,131/82,diabetes,,Low
+85,Male,severe headache with confusion,120,97.5,135/63,none,,Low
+44,Male,dizziness and slurred speech,109,97.4,,none,,Low
+39,Male,persistent cough and fatigue,140,101.6,120/68,hypertension,unconscious,Critical
+5,Male,severe headache with confusion,83,98.6,112/86,diabetes,,Low
+40,Male,joint swelling and stiffness,92,97.9,114/67,diabetes,,Low
+32,Male,tightness spreading to left arm,81,98.5,103/66,hypertension,,Low
+9,Male,,70,97.1,117/61,heart disease,,Low
+5,Female,shortness of breath at rest,142,99.7,111/62,none,suicidal ideation,Critical
+87,Female,shortness of breath at rest,147,97.2,103/88,diabetes,,High
+58,Female,persistent cough and fatigue,75,102.9,117/68,none,,Medium
+10,Female,joint swelling and stiffness,82,98.7,140/67,none,,Low
+27,Female,sudden crushing chest pain,107,104.1,132/64,diabetes,,Critical
+60,Female,joint swelling and stiffness,84,97.9,120/84,hypertension,,Low
+71,Female,dizziness and slurred speech,94,98.1,103/73,asthma,,Low
+24,Female,tightness spreading to left arm,86,97.0,134/85,hypertension,,Low
+62,Male,joint swelling and stiffness,82,98.1,132/68,none,,Low
+68,Female,extreme weakness,81,98.0,135/88,hypertension,,Low
+94,Male,joint swelling and stiffness,91,98.3,105/83,none,,Low
+5,Male,shortness of breath at rest,108,98.0,139/83,hypertension,,High
+88,Male,severe headache with confusion,110,99.0,110/83,heart disease,,Low
+72,Male,lower back strain,96,98.3,124/78,heart disease,,Low
+61,Female,severe headache with confusion,71,97.8,111/82,none,,Low
+49,Male,shortness of breath at rest,147,97.6,,hypertension,,High
+22,Male,burning sensation in chest,199,98.7,,hypertension,,Critical
+52,Male,tightness spreading to left arm,96,98.1,,diabetes,,Low
+41,Male,,92,98.7,,diabetes,,Low
+51,Male,high fever with chills,92,101.2,121/84,hypertension,,Medium
+12,Female,extreme weakness,66,97.9,131/87,heart disease,,Low
+69,Male,extreme weakness,79,98.7,119/87,hypertension,,Low
+71,Male,,93,97.4,139/87,asthma,,Low
+50,Female,severe headache with confusion,111,97.5,140/67,diabetes,,Low
+86,Male,extreme weakness,143,99.4,116/87,diabetes,suicidal ideation,Critical
+49,Male,burning sensation in chest,120,97.4,135/80,diabetes,,High
+86,Female,persistent cough and fatigue,82,101.6,132/64,none,,Medium
+39,Female,burning sensation in chest,146,97.6,137/81,heart disease,,High
+30,Female,joint swelling and stiffness,94,97.1,114/75,asthma,,Low
+53,Female,sudden crushing chest pain,134,97.0,137/85,heart disease,,High
+33,Female,lower back strain,97,97.5,128/63,hypertension,,Low
+54,Female,persistent cough and fatigue,99,100.7,106/62,diabetes,,Medium
+56,Male,sudden crushing chest pain,108,97.0,132/82,none,,High
+51,Female,high fever with chills,60,100.9,137/72,asthma,,Medium
+42,Male,extreme weakness,85,97.6,110/85,heart disease,,Low
+28,Female,severe headache with confusion,119,98.2,115/74,none,,Low
+91,Female,shortness of breath at rest,165,101.0,119/77,hypertension,severe bleeding,Critical
+35,Female,severe headache with confusion,119,98.2,106/89,asthma,,Low
+86,Male,tightness spreading to left arm,70,104.5,125/72,hypertension,,Critical
+63,Male,persistent cough and fatigue,84,100.7,120/64,diabetes,,Medium
+57,Male,lower back strain,75,97.8,115/69,diabetes,,Low
+66,Male,joint swelling and stiffness,64,97.3,119/62,asthma,,Low
+30,Male,persistent cough and fatigue,134,103.4,133/86,heart disease,unconscious,Critical
+42,Male,extreme weakness,63,98.1,116/64,none,,Low
+34,Female,,100,98.0,137/67,heart disease,,Low
+88,Male,joint swelling and stiffness,161,103.7,108/66,hypertension,unconscious,Critical
+75,Male,persistent cough and fatigue,62,101.5,,hypertension,,Medium
+67,Male,extreme weakness,126,99.4,116/67,hypertension,unconscious,Critical
+27,Female,high fever with chills,72,100.6,101/88,heart disease,,Medium
+18,Female,high fever with chills,76,101.1,109/65,diabetes,,Medium
+36,Female,lower back strain,75,98.2,,heart disease,,Low
+32,Female,high fever with chills,67,102.5,103/60,diabetes,,Medium
+22,Male,burning sensation in chest,122,97.4,135/82,heart disease,,High
+54,Male,severe headache with confusion,153,99.4,127/67,heart disease,major trauma,Critical
+62,Female,tightness spreading to left arm,65,98.4,,hypertension,,Low
+55,Female,joint swelling and stiffness,88,98.6,130/69,heart disease,,Low
+69,Female,dizziness and slurred speech,144,100.0,137/73,heart disease,suicidal ideation,Critical
+91,Male,,66,97.5,102/83,diabetes,,Low
+32,Female,burning sensation in chest,155,102.8,124/86,diabetes,unconscious,Critical
+28,Female,shortness of breath at rest,131,98.6,104/83,hypertension,,High
+74,Male,high fever with chills,84,100.5,113/90,heart disease,,Medium
+62,Male,burning sensation in chest,105,98.1,133/65,asthma,,High
+25,Female,,82,97.7,107/85,hypertension,,Low
+65,Male,shortness of breath at rest,197,100.6,101/72,none,unconscious,Critical
+65,Male,dizziness and slurred speech,110,97.5,140/80,asthma,,Low
+42,Female,sudden crushing chest pain,101,97.8,126/85,heart disease,,High
+69,Female,,90,97.9,,diabetes,,Low
+67,Male,shortness of breath at rest,114,98.8,116/75,diabetes,,High
+33,Female,high fever with chills,81,100.2,,diabetes,,Medium
+9,Female,persistent cough and fatigue,94,102.5,102/72,none,,Medium
+91,Female,persistent cough and fatigue,193,100.8,,asthma,,Critical
+10,Female,tightness spreading to left arm,61,98.9,103/72,diabetes,,Low
+47,Female,severe headache with confusion,124,103.7,123/77,hypertension,major trauma,Critical
+40,Male,severe headache with confusion,143,100.2,134/83,none,major trauma,Critical
+69,Female,extreme weakness,77,98.0,109/60,diabetes,,Low
+45,Male,severe headache with confusion,160,102.0,123/82,heart disease,suicidal ideation,Critical
+87,Male,joint swelling and stiffness,68,98.1,101/71,asthma,,Low
+36,Male,extreme weakness,123,103.2,128/87,hypertension,major trauma,Critical
+41,Female,persistent cough and fatigue,84,102.2,115/82,none,,Medium
+43,Female,severe headache with confusion,109,97.7,102/65,heart disease,,Low
+23,Female,burning sensation in chest,139,98.6,132/85,asthma,,High
+29,Female,dizziness and slurred speech,98,97.8,108/71,asthma,,Low
+8,Male,burning sensation in chest,122,98.7,104/62,hypertension,,High
+18,Female,high fever with chills,65,102.0,106/77,hypertension,,Medium
+22,Male,lower back strain,96,97.5,,diabetes,,Low
+57,Male,dizziness and slurred speech,108,97.7,111/88,none,,Low
+28,Female,persistent cough and fatigue,66,100.3,108/77,asthma,,Medium
+26,Female,sudden crushing chest pain,106,97.4,103/78,asthma,,High
+95,Female,persistent cough and fatigue,64,102.3,110/72,hypertension,,Medium
+62,Female,persistent cough and fatigue,192,99.5,102/61,heart disease,suicidal ideation,Critical
+22,Female,burning sensation in chest,130,97.6,135/66,hypertension,,High
+8,Male,shortness of breath at rest,143,104.7,129/63,hypertension,,Critical
+57,Female,shortness of breath at rest,190,104.5,133/85,hypertension,,Critical
+41,Female,,84,104.6,131/87,hypertension,,Critical
+48,Male,,144,103.5,102/90,none,major trauma,Critical
+35,Male,persistent cough and fatigue,83,101.0,121/72,hypertension,,Medium
+70,Female,extreme weakness,161,99.8,115/72,diabetes,unconscious,Critical
+21,Female,extreme weakness,85,98.2,134/79,none,,Low
+22,Female,shortness of breath at rest,146,98.6,102/74,asthma,,High
+43,Female,high fever with chills,68,102.9,100/74,asthma,,Medium
+40,Female,burning sensation in chest,121,97.9,127/60,none,,High
+43,Male,high fever with chills,66,101.8,101/61,asthma,,Medium
+66,Female,lower back strain,100,98.6,110/75,none,,Low
+50,Female,shortness of breath at rest,147,97.8,103/82,hypertension,,High
+20,Female,shortness of breath at rest,200,97.3,130/63,hypertension,,Critical
+41,Female,shortness of breath at rest,131,98.6,139/87,asthma,,High
+30,Female,severe headache with confusion,101,98.5,105/86,none,,Low
+74,Male,persistent cough and fatigue,99,101.0,132/89,diabetes,,Medium
+68,Male,extreme weakness,164,101.1,101/85,hypertension,severe bleeding,Critical
+88,Female,joint swelling and stiffness,88,98.4,,hypertension,,Low
+94,Female,high fever with chills,91,101.2,103/90,diabetes,,Medium
+42,Female,burning sensation in chest,185,98.5,108/74,hypertension,,Critical
+86,Male,burning sensation in chest,148,98.2,115/88,diabetes,,High
+72,Female,tightness spreading to left arm,79,105.3,140/72,diabetes,,Critical
+52,Male,,162,99.4,116/67,heart disease,unconscious,Critical
+37,Female,extreme weakness,72,98.4,126/86,asthma,,Low
+28,Female,,100,97.6,115/62,asthma,,Low
+8,Female,tightness spreading to left arm,166,100.6,135/62,diabetes,suicidal ideation,Critical
+91,Female,shortness of breath at rest,148,99.0,106/74,diabetes,,High
+5,Male,sudden crushing chest pain,149,105.2,102/88,none,active seizure,Critical
+21,Male,shortness of breath at rest,135,98.0,130/82,heart disease,,High
+69,Female,shortness of breath at rest,121,101.4,116/66,heart disease,major trauma,Critical
+24,Female,burning sensation in chest,144,97.4,,diabetes,,High
+25,Male,tightness spreading to left arm,61,97.9,138/78,none,,Low
+49,Female,,60,97.9,139/80,asthma,,Low
+56,Male,lower back strain,100,98.7,112/80,diabetes,,Low
+35,Male,lower back strain,74,97.4,123/79,diabetes,,Low
+30,Female,burning sensation in chest,145,99.3,121/62,heart disease,major trauma,Critical
+24,Male,,67,97.6,120/61,diabetes,,Low
+71,Male,burning sensation in chest,169,102.3,136/67,diabetes,unconscious,Critical
+24,Female,burning sensation in chest,101,98.4,114/84,heart disease,,High
+12,Female,severe headache with confusion,92,97.4,108/78,asthma,,Low
+67,Female,persistent cough and fatigue,184,102.7,116/74,heart disease,suicidal ideation,Critical
+28,Female,high fever with chills,83,100.6,139/61,hypertension,,Medium
+58,Female,persistent cough and fatigue,62,101.8,139/89,none,,Medium
+74,Male,shortness of breath at rest,142,98.5,119/90,heart disease,,High
+38,Female,,215,97.5,131/69,heart disease,,Critical
+89,Male,burning sensation in chest,114,97.4,115/64,hypertension,,High
+42,Female,dizziness and slurred speech,168,102.2,106/66,hypertension,active seizure,Critical
+67,Male,burning sensation in chest,102,98.5,127/83,none,,High
+6,Male,severe headache with confusion,163,101.6,118/61,diabetes,unconscious,Critical
+75,Female,tightness spreading to left arm,75,97.2,,none,,Low
+75,Female,,82,98.6,110/61,hypertension,,Low
+55,Female,sudden crushing chest pain,169,99.1,103/90,diabetes,major trauma,Critical
+62,Male,joint swelling and stiffness,92,98.4,,heart disease,,Low
+26,Female,persistent cough and fatigue,85,101.7,129/73,diabetes,,Medium
+34,Male,high fever with chills,123,102.0,111/64,heart disease,major trauma,Critical
+42,Female,persistent cough and fatigue,98,101.7,137/85,heart disease,,Medium
+45,Male,persistent cough and fatigue,126,100.3,137/61,heart disease,suicidal ideation,Critical
+36,Female,severe headache with confusion,97,97.6,111/64,asthma,,Low
+59,Female,high fever with chills,131,99.1,102/83,heart disease,major trauma,Critical
+28,Female,sudden crushing chest pain,131,102.0,108/79,none,unconscious,Critical
+39,Male,severe headache with confusion,211,100.3,132/73,asthma,active seizure,Critical
+73,Male,,66,97.7,137/72,diabetes,,Low
+25,Male,,76,97.3,110/82,asthma,,Low
+71,Female,dizziness and slurred speech,91,98.0,139/70,diabetes,,Low
+86,Male,dizziness and slurred speech,165,99.6,103/69,asthma,unconscious,Critical
+57,Female,,210,98.3,120/60,diabetes,,Critical
+40,Male,lower back strain,62,97.7,,diabetes,,Low
+57,Female,persistent cough and fatigue,73,101.8,105/81,diabetes,,Medium
+72,Female,high fever with chills,80,104.2,140/77,none,,Critical
+29,Male,persistent cough and fatigue,164,99.5,132/84,asthma,severe bleeding,Critical
+23,Male,joint swelling and stiffness,76,98.0,135/90,asthma,,Low
+23,Female,shortness of breath at rest,160,102.2,133/80,heart disease,unconscious,Critical
+87,Female,joint swelling and stiffness,85,104.1,108/89,diabetes,,Critical
+39,Male,high fever with chills,77,103.0,,none,,Medium
+11,Female,burning sensation in chest,116,98.0,136/61,heart disease,,High
+55,Male,sudden crushing chest pain,121,97.7,113/86,asthma,,High
+36,Male,,94,97.2,114/89,heart disease,,Low
+88,Female,lower back strain,180,97.8,118/77,asthma,,Low
+11,Male,sudden crushing chest pain,125,98.2,116/79,diabetes,,High
+40,Male,lower back strain,152,102.2,107/90,diabetes,unconscious,Critical
+33,Female,high fever with chills,67,101.3,110/83,hypertension,,Medium
+33,Male,burning sensation in chest,121,105.8,125/70,asthma,,Critical
+22,Male,tightness spreading to left arm,65,98.4,105/62,heart disease,,Low
+27,Female,shortness of breath at rest,163,103.2,137/74,asthma,severe bleeding,Critical
+29,Female,severe headache with confusion,62,97.9,102/86,hypertension,,Low
+47,Male,,77,97.5,118/66,diabetes,,Low
+60,Female,burning sensation in chest,164,103.4,121/82,heart disease,unconscious,Critical
+34,Female,burning sensation in chest,119,98.8,129/78,heart disease,,High
+9,Male,severe headache with confusion,107,98.2,110/75,heart disease,,Low
+27,Female,lower back strain,79,97.3,127/81,asthma,,Low
+28,Male,lower back strain,60,98.3,104/70,asthma,,Low
+45,Female,sudden crushing chest pain,138,101.5,113/85,heart disease,active seizure,Critical
+66,Male,tightness spreading to left arm,216,98.1,129/67,heart disease,,Critical
+61,Male,sudden crushing chest pain,68,98.0,107/78,none,,High
+50,Male,shortness of breath at rest,120,97.1,129/72,hypertension,,High
+49,Female,,95,104.9,125/85,hypertension,,Critical
+46,Female,joint swelling and stiffness,70,97.2,136/81,none,,Low
+43,Male,extreme weakness,120,105.2,140/72,heart disease,severe bleeding,Critical
+19,Female,sudden crushing chest pain,117,97.9,138/63,hypertension,,High
+69,Female,burning sensation in chest,126,99.8,111/77,hypertension,major trauma,Critical
+70,Male,dizziness and slurred speech,113,98.5,140/69,heart disease,,Low
+30,Female,burning sensation in chest,138,99.4,126/60,diabetes,major trauma,Critical
+56,Female,lower back strain,64,98.4,140/89,heart disease,,Low
+90,Female,high fever with chills,64,102.3,104/74,hypertension,,Medium
+55,Female,severe headache with confusion,89,97.4,102/73,diabetes,,Low
+57,Female,severe headache with confusion,163,103.3,121/86,heart disease,active seizure,Critical
+34,Male,joint swelling and stiffness,94,97.9,,heart disease,,Low
+50,Male,joint swelling and stiffness,64,98.3,112/81,heart disease,,Low
+75,Female,high fever with chills,88,100.5,126/71,asthma,,Medium
+12,Male,sudden crushing chest pain,158,103.7,123/73,hypertension,major trauma,Critical
+70,Male,dizziness and slurred speech,111,97.1,129/78,heart disease,,Low
+56,Male,dizziness and slurred speech,169,102.3,109/65,diabetes,severe bleeding,Critical
+94,Female,severe headache with confusion,80,98.6,108/80,hypertension,,Low
+33,Male,persistent cough and fatigue,63,97.8,101/63,diabetes,,Medium
+5,Male,sudden crushing chest pain,142,104.7,,heart disease,,Critical
+36,Male,persistent cough and fatigue,75,102.3,112/77,heart disease,,Medium
+29,Male,extreme weakness,157,102.8,100/73,hypertension,major trauma,Critical
+62,Female,persistent cough and fatigue,75,101.0,126/77,hypertension,,Medium
+33,Male,persistent cough and fatigue,68,100.7,100/60,none,,Medium
+29,Female,shortness of breath at rest,130,97.3,108/69,none,,High
+45,Female,burning sensation in chest,140,98.4,,heart disease,,High
+46,Male,,73,97.2,108/86,heart disease,,Low
+8,Female,persistent cough and fatigue,85,102.7,121/66,diabetes,,Medium
+33,Male,tightness spreading to left arm,82,97.2,132/80,heart disease,,Low
+20,Female,,97,98.1,113/78,diabetes,,Low
+48,Male,joint swelling and stiffness,70,97.4,130/78,none,,Low
+48,Female,dizziness and slurred speech,116,97.9,127/80,hypertension,,Low
+75,Male,sudden crushing chest pain,131,98.7,108/79,none,,High
+23,Female,,74,97.6,123/80,none,,Low
+5,Male,,94,98.9,105/68,heart disease,,Low
+22,Female,tightness spreading to left arm,80,98.0,123/72,heart disease,,Low
+89,Female,,160,99.1,114/69,hypertension,unconscious,Critical
+44,Male,extreme weakness,100,97.7,118/82,asthma,,Low
+10,Female,shortness of breath at rest,126,98.0,,hypertension,,High
+92,Male,,83,97.5,,diabetes,,Low
+11,Male,lower back strain,95,98.2,128/66,asthma,,Low
+37,Male,dizziness and slurred speech,134,100.8,134/86,none,severe bleeding,Critical
+35,Female,lower back strain,88,98.0,100/84,hypertension,,Low
+73,Female,,75,98.4,110/85,asthma,,Low
+43,Female,shortness of breath at rest,110,98.4,102/64,heart disease,,High
+58,Female,high fever with chills,83,100.3,125/80,hypertension,,Medium
+70,Male,shortness of breath at rest,132,104.8,102/70,diabetes,severe bleeding,Critical
+49,Female,shortness of breath at rest,115,98.4,139/79,none,,High
+63,Female,shortness of breath at rest,125,103.8,112/88,asthma,suicidal ideation,Critical
+25,Male,high fever with chills,142,105.7,140/72,none,severe bleeding,Critical
+56,Male,burning sensation in chest,124,97.2,114/82,hypertension,,High
+71,Male,tightness spreading to left arm,61,104.2,108/80,diabetes,,Critical
+8,Female,shortness of breath at rest,196,98.7,130/68,asthma,,Critical
+50,Male,severe headache with confusion,165,102.5,113/70,hypertension,severe bleeding,Critical
+22,Female,joint swelling and stiffness,140,99.5,,diabetes,major trauma,Critical
+74,Female,,95,98.8,126/83,hypertension,,Low
+49,Female,sudden crushing chest pain,101,97.2,134/69,hypertension,,High
+8,Female,extreme weakness,90,98.2,109/78,none,,Low
+94,Female,joint swelling and stiffness,95,98.9,125/71,asthma,,Low
+54,Female,severe headache with confusion,84,97.8,104/60,none,,Low
+29,Female,burning sensation in chest,60,97.5,116/61,diabetes,,High
+6,Female,joint swelling and stiffness,187,98.9,,asthma,,Critical
+88,Male,severe headache with confusion,111,98.4,113/71,none,,Low
+21,Male,shortness of breath at rest,156,101.8,112/74,heart disease,severe bleeding,Critical
+47,Female,sudden crushing chest pain,142,97.3,104/71,hypertension,,High
+75,Male,severe headache with confusion,104,98.0,121/77,asthma,,Low
+43,Male,lower back strain,144,100.8,135/74,asthma,unconscious,Critical
+86,Male,tightness spreading to left arm,76,97.0,118/72,hypertension,,Low
+70,Male,,124,99.6,125/62,asthma,unconscious,Critical
+33,Male,tightness spreading to left arm,169,101.6,130/79,diabetes,suicidal ideation,Critical
+28,Male,tightness spreading to left arm,91,97.1,126/75,hypertension,,Low
+45,Male,burning sensation in chest,131,98.5,,none,,High
+62,Female,tightness spreading to left arm,138,100.9,110/90,diabetes,major trauma,Critical
+37,Female,shortness of breath at rest,165,100.0,107/65,heart disease,active seizure,Critical
+52,Female,,88,97.4,118/60,hypertension,,Low
+72,Male,sudden crushing chest pain,103,98.6,,asthma,,High
+75,Female,burning sensation in chest,168,103.2,,heart disease,suicidal ideation,Critical
+20,Female,lower back strain,70,97.4,,asthma,,Low
+40,Male,persistent cough and fatigue,62,100.6,117/75,none,,Medium
+23,Female,severe headache with confusion,84,97.2,138/82,hypertension,,Low
+71,Male,sudden crushing chest pain,132,103.5,119/81,diabetes,active seizure,Critical
+60,Male,high fever with chills,145,99.3,112/68,asthma,suicidal ideation,Critical
+57,Female,persistent cough and fatigue,63,102.4,119/78,asthma,,Medium
+44,Male,tightness spreading to left arm,86,97.2,127/67,none,,Low
+10,Male,shortness of breath at rest,145,97.5,118/84,none,,High
+66,Male,severe headache with confusion,83,97.5,109/79,none,,Low
+24,Female,burning sensation in chest,140,97.3,102/70,asthma,,High
+44,Male,joint swelling and stiffness,95,97.9,130/68,hypertension,,Low
+74,Female,sudden crushing chest pain,122,98.8,103/90,asthma,,High
+60,Female,severe headache with confusion,150,100.2,119/66,heart disease,unconscious,Critical
+94,Male,dizziness and slurred speech,77,97.5,102/86,hypertension,,Low
+35,Male,shortness of breath at rest,128,99.8,135/89,asthma,unconscious,Critical
+90,Male,burning sensation in chest,115,97.8,114/74,none,,High
+89,Male,severe headache with confusion,105,97.7,109/84,asthma,,Low
+25,Male,joint swelling and stiffness,62,97.1,132/81,none,,Low
+24,Female,joint swelling and stiffness,100,97.9,103/61,asthma,,Low
+9,Female,dizziness and slurred speech,119,97.9,,diabetes,,Low
+19,Male,high fever with chills,91,100.9,115/70,none,,Medium
+91,Male,lower back strain,89,98.6,125/73,hypertension,,Low
+72,Male,shortness of breath at rest,101,98.4,135/75,hypertension,,High
+27,Male,persistent cough and fatigue,60,101.5,135/79,hypertension,,Medium
+24,Male,tightness spreading to left arm,95,98.9,130/74,heart disease,,Low
+9,Female,tightness spreading to left arm,80,98.0,128/88,hypertension,,Low
+87,Male,tightness spreading to left arm,73,98.0,139/63,hypertension,suicidal ideation,Critical
+63,Female,sudden crushing chest pain,123,99.8,133/61,none,active seizure,Critical
+19,Female,,81,98.4,127/69,diabetes,,Low
+24,Male,dizziness and slurred speech,156,105.5,111/63,asthma,active seizure,Critical
+34,Female,burning sensation in chest,124,104.3,100/84,diabetes,,Critical
+39,Male,high fever with chills,83,101.1,102/64,heart disease,,Medium
+6,Female,extreme weakness,66,105.1,115/72,none,,Critical
+38,Female,dizziness and slurred speech,149,103.0,,heart disease,severe bleeding,Critical
+73,Male,persistent cough and fatigue,95,101.7,,asthma,,Medium
+25,Female,sudden crushing chest pain,107,98.8,,asthma,,High
+54,Female,lower back strain,92,98.6,128/63,diabetes,,Low
+63,Male,,62,97.0,115/72,hypertension,,Low
+12,Female,tightness spreading to left arm,78,98.7,123/68,heart disease,,Low
+62,Female,persistent cough and fatigue,82,101.6,108/79,diabetes,,Medium
+62,Female,shortness of breath at rest,106,98.2,,none,,High
+66,Female,severe headache with confusion,128,103.9,101/62,heart disease,active seizure,Critical
+72,Female,tightness spreading to left arm,195,103.4,137/63,heart disease,major trauma,Critical
+20,Female,burning sensation in chest,149,102.6,123/67,asthma,severe bleeding,Critical
+89,Female,severe headache with confusion,92,97.9,105/82,none,,Low
+49,Female,sudden crushing chest pain,148,101.6,108/87,diabetes,severe bleeding,Critical
+50,Female,tightness spreading to left arm,166,101.5,,diabetes,major trauma,Critical
+34,Female,shortness of breath at rest,105,97.8,124/83,diabetes,,High
+51,Female,extreme weakness,96,97.9,138/66,hypertension,,Low
+56,Male,extreme weakness,61,99.0,107/80,asthma,,Low
+22,Female,,65,98.3,137/76,diabetes,,Low
+34,Male,,79,97.9,131/66,heart disease,,Low
+91,Female,tightness spreading to left arm,73,97.2,114/65,none,,Low
+51,Male,burning sensation in chest,111,104.0,132/88,hypertension,,High
+71,Female,shortness of breath at rest,114,99.0,124/78,diabetes,,High
+53,Male,sudden crushing chest pain,130,98.8,,hypertension,,High
+60,Female,extreme weakness,66,97.2,119/79,asthma,,Low
+65,Male,dizziness and slurred speech,98,97.2,,hypertension,,Low
+34,Female,shortness of breath at rest,189,103.0,,heart disease,suicidal ideation,Critical
+90,Female,extreme weakness,72,98.1,133/64,diabetes,,Low
+86,Male,sudden crushing chest pain,101,98.1,103/73,diabetes,,High
+11,Male,dizziness and slurred speech,80,97.3,103/80,hypertension,,Low
+53,Male,burning sensation in chest,144,103.0,129/81,heart disease,severe bleeding,Critical
+60,Female,extreme weakness,94,98.6,139/63,none,,Low
+12,Male,shortness of breath at rest,124,98.9,130/70,diabetes,,High
+46,Female,sudden crushing chest pain,137,97.9,122/87,hypertension,,High
+47,Male,dizziness and slurred speech,87,98.3,134/80,heart disease,,Low
+18,Male,high fever with chills,76,97.6,,hypertension,,Medium
+74,Female,severe headache with confusion,101,97.7,,asthma,,Low
+21,Female,joint swelling and stiffness,79,98.2,125/62,hypertension,,Low
+43,Male,persistent cough and fatigue,97,102.4,,asthma,,Medium
+33,Male,dizziness and slurred speech,120,97.9,101/65,heart disease,,Low
+7,Male,burning sensation in chest,117,97.2,127/63,none,,High
+37,Male,sudden crushing chest pain,139,104.6,139/62,heart disease,,Critical
+35,Female,extreme weakness,142,99.1,101/61,heart disease,suicidal ideation,Critical
+36,Male,high fever with chills,76,100.4,,hypertension,,Medium
+64,Male,tightness spreading to left arm,79,97.7,,hypertension,,Low
+33,Female,sudden crushing chest pain,118,98.7,112/87,hypertension,,High
+47,Female,severe headache with confusion,87,98.9,140/64,hypertension,,Low
+66,Male,persistent cough and fatigue,70,101.6,125/79,heart disease,,Medium
+89,Male,shortness of breath at rest,136,98.9,102/72,hypertension,,High
+22,Female,burning sensation in chest,109,97.4,125/89,diabetes,,High
+88,Male,extreme weakness,78,97.7,107/75,heart disease,,Low
+73,Male,,86,97.2,117/64,diabetes,,Low
+51,Female,burning sensation in chest,116,98.9,112/82,none,,High
+8,Male,tightness spreading to left arm,75,98.4,116/77,none,,Low
+45,Female,tightness spreading to left arm,169,101.9,113/70,diabetes,severe bleeding,Critical
+68,Male,joint swelling and stiffness,96,105.3,127/62,hypertension,,Critical
+37,Female,high fever with chills,74,102.8,139/76,hypertension,,Medium
+40,Female,sudden crushing chest pain,118,98.4,106/72,hypertension,,High
+34,Female,tightness spreading to left arm,71,98.1,,hypertension,,Low
+19,Female,sudden crushing chest pain,144,97.2,103/62,diabetes,,High
+9,Female,persistent cough and fatigue,60,102.7,133/62,heart disease,,Medium
+65,Male,burning sensation in chest,107,98.1,106/70,diabetes,,High
+38,Male,burning sensation in chest,134,98.6,138/75,asthma,,High
+32,Male,burning sensation in chest,145,98.9,107/68,diabetes,,High
+24,Male,sudden crushing chest pain,119,97.8,128/90,diabetes,,High
+32,Female,persistent cough and fatigue,76,101.5,,diabetes,,Medium
+92,Female,extreme weakness,91,98.4,138/75,heart disease,,Low
+6,Female,persistent cough and fatigue,83,100.8,126/79,hypertension,,Medium
+67,Male,high fever with chills,92,104.3,114/76,hypertension,,Critical
+71,Male,persistent cough and fatigue,80,102.9,105/78,diabetes,,Medium
+12,Female,extreme weakness,80,97.7,132/63,none,,Low
+52,Female,severe headache with confusion,92,97.7,104/60,heart disease,,Low
+73,Male,sudden crushing chest pain,133,97.5,127/60,none,,High
+69,Female,sudden crushing chest pain,65,97.6,110/72,none,,High
+75,Male,joint swelling and stiffness,96,104.5,109/72,none,,Critical
+71,Male,tightness spreading to left arm,65,98.4,128/73,diabetes,,Low
+20,Male,,168,101.9,116/86,diabetes,active seizure,Critical
+85,Female,burning sensation in chest,124,98.8,114/68,hypertension,,High
+8,Male,tightness spreading to left arm,185,101.2,139/89,none,active seizure,Critical
+59,Female,persistent cough and fatigue,142,101.0,107/86,diabetes,major trauma,Critical
+73,Male,lower back strain,80,98.0,119/87,diabetes,,Low
+20,Male,shortness of breath at rest,105,97.3,105/89,none,,High
+44,Female,high fever with chills,62,101.6,104/78,diabetes,,Medium
+54,Male,joint swelling and stiffness,73,98.2,115/90,diabetes,,Low
+37,Male,joint swelling and stiffness,62,97.4,124/67,heart disease,,Low
+63,Female,tightness spreading to left arm,87,97.4,128/60,heart disease,,Low
+73,Female,tightness spreading to left arm,62,98.1,103/61,none,,Low
+41,Male,joint swelling and stiffness,93,97.3,121/62,diabetes,,Low
+50,Male,burning sensation in chest,132,102.7,103/68,diabetes,suicidal ideation,Critical
+54,Female,extreme weakness,91,98.2,124/78,hypertension,,Low
+32,Female,tightness spreading to left arm,121,100.4,118/86,hypertension,unconscious,Critical
+12,Male,persistent cough and fatigue,83,101.1,115/68,asthma,,Medium
+59,Female,extreme weakness,170,99.9,110/88,none,major trauma,Critical
+36,Female,dizziness and slurred speech,139,101.9,134/79,heart disease,suicidal ideation,Critical
+46,Female,sudden crushing chest pain,165,103.4,100/64,none,severe bleeding,Critical
+90,Female,severe headache with confusion,80,97.9,104/72,asthma,,Low
+75,Female,tightness spreading to left arm,63,98.6,106/61,diabetes,,Low
+69,Female,sudden crushing chest pain,126,98.1,108/72,heart disease,,High
+28,Female,burning sensation in chest,133,97.7,115/62,none,,High
+8,Female,dizziness and slurred speech,117,97.8,105/73,diabetes,,Low
+28,Female,burning sensation in chest,137,102.5,133/63,none,suicidal ideation,Critical
+27,Male,,65,97.7,101/73,hypertension,,Low
+11,Male,severe headache with confusion,166,101.0,121/67,heart disease,unconscious,Critical
+92,Male,high fever with chills,74,100.1,129/79,diabetes,,Medium
+18,Male,tightness spreading to left arm,84,98.9,134/61,none,,Low
+8,Female,tightness spreading to left arm,64,98.8,100/85,heart disease,,Low
+6,Male,dizziness and slurred speech,78,97.6,,none,,Low
+28,Male,lower back strain,87,97.7,127/85,diabetes,,Low
+52,Female,shortness of breath at rest,142,98.0,128/60,hypertension,,High
+49,Male,sudden crushing chest pain,139,101.4,,hypertension,active seizure,Critical
+64,Male,persistent cough and fatigue,132,101.0,130/85,hypertension,suicidal ideation,Critical
+38,Male,dizziness and slurred speech,63,97.2,129/60,asthma,,Low
+85,Female,tightness spreading to left arm,98,98.6,125/64,heart disease,,Low
+43,Female,burning sensation in chest,134,104.9,135/75,diabetes,,Critical
+66,Male,burning sensation in chest,119,98.2,129/74,asthma,,High
+62,Female,joint swelling and stiffness,87,97.9,,heart disease,,Low
+92,Female,extreme weakness,67,97.5,,none,,Low
+69,Female,sudden crushing chest pain,101,98.5,112/66,heart disease,,High
+58,Female,burning sensation in chest,128,100.2,124/61,none,suicidal ideation,Critical
+39,Female,burning sensation in chest,112,98.2,131/70,diabetes,,High
+49,Female,joint swelling and stiffness,100,98.8,129/87,asthma,,Low
+36,Female,persistent cough and fatigue,97,100.3,105/61,asthma,,Medium
+49,Female,persistent cough and fatigue,94,102.3,103/89,asthma,,Medium
+32,Female,high fever with chills,91,105.0,100/78,hypertension,,Critical
+12,Male,,75,97.5,125/70,hypertension,,Low
+23,Male,high fever with chills,75,100.2,101/83,diabetes,,Medium
+66,Female,extreme weakness,76,97.8,,heart disease,,Low
+61,Male,joint swelling and stiffness,140,99.8,115/73,asthma,unconscious,Critical
+87,Male,,100,97.3,101/81,heart disease,,Low
+61,Male,persistent cough and fatigue,210,101.3,120/62,heart disease,,Critical
+51,Female,shortness of breath at rest,160,103.6,119/82,hypertension,unconscious,Critical
+57,Female,severe headache with confusion,135,100.0,,diabetes,major trauma,Critical
+8,Female,sudden crushing chest pain,141,97.7,111/86,asthma,,High
+46,Female,joint swelling and stiffness,80,98.1,104/82,none,,Low
+72,Female,joint swelling and stiffness,65,105.4,108/86,asthma,,Critical
+91,Male,joint swelling and stiffness,148,99.8,134/79,asthma,unconscious,Critical
+92,Male,dizziness and slurred speech,88,97.8,122/72,hypertension,,Low
+34,Male,burning sensation in chest,134,97.6,105/75,asthma,,High
+40,Female,severe headache with confusion,94,98.9,102/90,asthma,,Low
+26,Male,severe headache with confusion,112,98.6,104/86,hypertension,,Low
+24,Male,dizziness and slurred speech,108,99.0,130/65,diabetes,,Low
+71,Male,burning sensation in chest,70,97.7,132/66,asthma,,High
+73,Female,sudden crushing chest pain,128,98.0,101/83,diabetes,,High
+51,Female,tightness spreading to left arm,89,99.0,140/88,heart disease,,Low
+75,Female,dizziness and slurred speech,94,98.0,133/64,asthma,,Low
+39,Female,persistent cough and fatigue,170,99.2,,diabetes,major trauma,Critical
+75,Female,severe headache with confusion,66,97.9,103/75,diabetes,severe bleeding,Critical
+51,Female,joint swelling and stiffness,93,97.2,103/63,asthma,,Low
+41,Female,high fever with chills,156,101.3,116/88,heart disease,major trauma,Critical
+26,Male,extreme weakness,78,97.2,111/90,diabetes,,Low
+88,Male,high fever with chills,60,101.9,108/79,hypertension,,Medium
+44,Female,joint swelling and stiffness,80,98.3,114/77,heart disease,,Low
+38,Female,tightness spreading to left arm,96,98.1,113/85,asthma,,Low
+65,Female,dizziness and slurred speech,114,97.7,111/61,asthma,,Low
+34,Male,joint swelling and stiffness,81,97.6,121/81,asthma,,Low
+33,Male,dizziness and slurred speech,143,101.5,,hypertension,unconscious,Critical
+29,Female,joint swelling and stiffness,95,98.8,129/61,heart disease,,Low
+66,Female,burning sensation in chest,187,105.0,,none,,Critical
+51,Male,burning sensation in chest,110,97.5,104/69,hypertension,,High
+45,Male,sudden crushing chest pain,120,98.7,102/61,hypertension,,High
+9,Female,high fever with chills,72,104.5,138/67,none,,Critical
+74,Female,,63,98.1,126/82,heart disease,,Low
+62,Male,shortness of breath at rest,119,98.5,125/90,hypertension,,High
+64,Female,sudden crushing chest pain,159,103.3,107/61,heart disease,suicidal ideation,Critical
+72,Female,sudden crushing chest pain,166,100.4,105/62,heart disease,major trauma,Critical
+88,Female,dizziness and slurred speech,95,98.3,108/77,none,,Low
+39,Male,severe headache with confusion,85,99.0,123/63,hypertension,,Low
+94,Male,burning sensation in chest,125,98.1,120/69,asthma,,High
+22,Female,tightness spreading to left arm,93,98.1,116/63,asthma,,Low
+30,Female,joint swelling and stiffness,203,99.0,119/61,asthma,,Critical
+95,Male,severe headache with confusion,80,97.8,101/86,none,,Low
+19,Male,shortness of breath at rest,219,99.3,127/90,diabetes,major trauma,Critical
+27,Male,joint swelling and stiffness,74,98.8,134/87,asthma,,Low
+38,Female,burning sensation in chest,133,98.8,107/79,diabetes,,High
+43,Male,high fever with chills,90,102.5,104/83,none,,Medium
+34,Female,sudden crushing chest pain,120,99.0,124/82,asthma,major trauma,Critical
+55,Female,extreme weakness,83,98.5,102/83,asthma,,Low
+61,Male,lower back strain,121,102.4,106/70,none,active seizure,Critical
+5,Female,shortness of breath at rest,129,97.2,115/89,heart disease,,High
+43,Female,tightness spreading to left arm,96,97.1,108/70,hypertension,,Low
+54,Male,,61,97.7,116/65,diabetes,,Low
+65,Male,lower back strain,69,97.4,107/76,diabetes,,Low
+38,Female,sudden crushing chest pain,118,97.1,106/64,heart disease,,High
+11,Female,tightness spreading to left arm,69,97.2,115/65,heart disease,,Low
+37,Male,burning sensation in chest,109,98.4,135/73,heart disease,,High
+45,Female,shortness of breath at rest,137,98.9,111/90,asthma,,High
+36,Male,high fever with chills,63,102.2,136/77,asthma,,Medium
+52,Male,persistent cough and fatigue,96,101.2,133/83,heart disease,,Medium
+56,Male,joint swelling and stiffness,69,98.2,136/90,diabetes,,Low
+52,Female,extreme weakness,88,104.3,126/79,heart disease,,Critical
+95,Female,burning sensation in chest,106,98.6,130/73,diabetes,,High
+33,Male,shortness of breath at rest,145,102.9,110/74,asthma,major trauma,Critical
+49,Male,,146,100.7,,hypertension,active seizure,Critical
+30,Male,lower back strain,64,97.2,113/61,heart disease,,Low
+36,Male,joint swelling and stiffness,85,99.0,117/89,heart disease,,Low
+46,Male,severe headache with confusion,132,101.5,,asthma,unconscious,Critical
+44,Male,high fever with chills,99,100.9,131/65,asthma,,Medium
+69,Male,lower back strain,87,98.1,111/72,diabetes,,Low
+89,Male,lower back strain,86,97.4,137/72,heart disease,,Low
+87,Male,,67,98.3,103/66,hypertension,,Low
+28,Male,lower back strain,143,103.9,129/66,diabetes,suicidal ideation,Critical
+56,Female,,70,97.8,124/78,heart disease,,Low
+93,Female,,95,97.3,120/83,asthma,,Low
+42,Male,dizziness and slurred speech,112,98.3,104/65,hypertension,,Low
+43,Male,lower back strain,62,98.6,116/67,heart disease,,Low
+66,Female,burning sensation in chest,158,102.4,139/63,asthma,major trauma,Critical
+57,Female,shortness of breath at rest,125,98.3,118/61,diabetes,,High
+39,Male,dizziness and slurred speech,140,102.4,,none,unconscious,Critical
+49,Female,lower back strain,164,103.9,116/88,diabetes,major trauma,Critical
+38,Female,joint swelling and stiffness,75,98.0,118/64,heart disease,,Low
+88,Male,sudden crushing chest pain,119,97.9,127/72,diabetes,,High
+87,Male,sudden crushing chest pain,116,97.4,122/73,hypertension,,High
+53,Female,dizziness and slurred speech,116,97.3,104/90,diabetes,,Low
+68,Male,dizziness and slurred speech,97,97.9,,none,,Low
+92,Female,persistent cough and fatigue,87,100.3,112/76,none,,Medium
+59,Male,joint swelling and stiffness,92,98.1,136/83,none,,Low
+85,Male,severe headache with confusion,120,98.9,133/81,heart disease,,Low
+57,Female,sudden crushing chest pain,142,103.2,112/78,none,suicidal ideation,Critical
+67,Female,sudden crushing chest pain,136,98.8,120/87,diabetes,,High
+30,Female,extreme weakness,97,98.4,110/66,hypertension,,Low
+55,Male,lower back strain,96,99.0,110/72,heart disease,,Low
+26,Male,lower back strain,62,97.0,,diabetes,,Low
+38,Female,shortness of breath at rest,211,102.0,123/81,hypertension,major trauma,Critical
+35,Female,high fever with chills,77,101.4,137/68,asthma,,Medium
+41,Female,extreme weakness,200,101.4,112/75,diabetes,unconscious,Critical
+61,Male,shortness of breath at rest,133,99.0,122/65,asthma,,High
+58,Female,burning sensation in chest,131,98.0,134/66,hypertension,,High
+54,Male,persistent cough and fatigue,64,102.0,131/90,hypertension,,Medium
+55,Female,tightness spreading to left arm,75,98.1,122/85,heart disease,,Low
+71,Male,severe headache with confusion,133,102.9,132/63,heart disease,suicidal ideation,Critical
+43,Male,sudden crushing chest pain,118,97.7,,heart disease,,High
+7,Female,lower back strain,68,97.4,108/70,asthma,,Low
+9,Male,dizziness and slurred speech,110,97.8,101/67,diabetes,,Low
+66,Male,persistent cough and fatigue,69,100.9,130/89,none,,Medium
+20,Male,tightness spreading to left arm,78,98.2,128/60,hypertension,,Low
+60,Male,burning sensation in chest,150,101.3,115/68,asthma,active seizure,Critical
+60,Female,lower back strain,88,98.0,,asthma,,Low
+31,Male,persistent cough and fatigue,72,101.6,108/81,diabetes,,Medium
+8,Male,dizziness and slurred speech,211,98.6,116/67,asthma,,Critical
+35,Female,extreme weakness,164,99.2,100/76,asthma,active seizure,Critical
+25,Male,sudden crushing chest pain,106,97.5,,diabetes,,High
+56,Female,,94,98.8,114/61,asthma,,Low
+36,Female,severe headache with confusion,111,97.4,134/89,none,,Low
+92,Male,joint swelling and stiffness,96,99.0,126/80,asthma,,Low
+51,Male,severe headache with confusion,98,97.6,103/63,none,,Low
+56,Female,lower back strain,72,98.1,109/81,heart disease,,Low
+67,Male,persistent cough and fatigue,91,101.7,138/78,asthma,,Medium
+10,Female,burning sensation in chest,139,98.4,103/90,diabetes,,High
+73,Female,burning sensation in chest,141,98.7,121/72,diabetes,,High
+52,Male,extreme weakness,87,97.8,122/66,diabetes,,Low
+52,Male,extreme weakness,67,98.3,132/89,asthma,,Low
+20,Female,joint swelling and stiffness,96,97.3,132/84,hypertension,,Low
+19,Female,severe headache with confusion,125,102.7,139/72,none,unconscious,Critical
+27,Male,joint swelling and stiffness,76,98.3,,heart disease,,Low
+94,Male,sudden crushing chest pain,180,97.6,111/71,none,,High
+11,Male,tightness spreading to left arm,122,101.7,115/78,hypertension,unconscious,Critical
+37,Female,tightness spreading to left arm,161,102.3,127/76,none,active seizure,Critical
+38,Female,high fever with chills,76,101.0,126/66,none,,Medium
+38,Male,tightness spreading to left arm,67,97.8,135/75,diabetes,,Low
+60,Female,shortness of breath at rest,115,97.2,120/76,none,,High
+95,Male,burning sensation in chest,156,104.0,140/74,heart disease,unconscious,Critical
+53,Male,,62,98.2,129/69,none,,Low
+22,Female,dizziness and slurred speech,86,98.1,,asthma,,Low
+31,Male,,189,97.7,136/82,diabetes,,Critical
+63,Male,severe headache with confusion,109,98.0,112/76,diabetes,,Low
+67,Female,dizziness and slurred speech,86,98.4,136/83,asthma,,Low
+89,Male,burning sensation in chest,143,97.8,124/75,heart disease,,High
+57,Male,high fever with chills,76,102.6,,heart disease,,Medium
+19,Male,,74,97.2,109/81,diabetes,,Low
+21,Female,high fever with chills,93,101.0,140/85,none,,Medium
+30,Male,high fever with chills,81,100.4,135/75,hypertension,,Medium
+73,Male,dizziness and slurred speech,106,98.6,,heart disease,,Low
+21,Male,sudden crushing chest pain,143,103.8,115/67,none,active seizure,Critical
+55,Female,shortness of breath at rest,161,101.7,100/82,asthma,active seizure,Critical
+86,Male,extreme weakness,90,98.4,140/61,diabetes,,Low
+10,Male,shortness of breath at rest,137,103.5,117/89,diabetes,severe bleeding,Critical
+9,Female,,82,98.2,135/62,asthma,,Low
+69,Male,joint swelling and stiffness,98,98.9,121/64,heart disease,,Low
+90,Female,,60,98.3,118/82,diabetes,,Low
+87,Male,high fever with chills,98,102.5,102/88,none,,Medium
+37,Female,joint swelling and stiffness,66,97.6,106/67,none,,Low
+88,Female,extreme weakness,67,98.0,100/75,hypertension,,Low
+70,Female,persistent cough and fatigue,67,97.3,,none,,Medium
+68,Male,high fever with chills,81,101.7,126/68,asthma,,Medium
+53,Female,sudden crushing chest pain,107,97.0,129/85,heart disease,,High
+87,Female,severe headache with confusion,112,97.7,108/63,none,,Low
+47,Male,sudden crushing chest pain,147,98.7,137/63,asthma,,High
+8,Male,joint swelling and stiffness,88,98.1,111/64,hypertension,,Low
+59,Male,severe headache with confusion,92,98.6,102/75,none,,Low
+52,Male,persistent cough and fatigue,124,101.9,112/79,hypertension,severe bleeding,Critical
+12,Male,tightness spreading to left arm,147,100.7,114/66,diabetes,severe bleeding,Critical
+23,Female,extreme weakness,67,98.2,109/76,asthma,,Low
+25,Male,dizziness and slurred speech,80,99.0,139/61,diabetes,,Low
+21,Male,,63,97.3,114/75,none,,Low
+22,Female,persistent cough and fatigue,63,100.5,134/78,diabetes,,Medium
+46,Female,lower back strain,89,98.5,111/66,heart disease,,Low
+52,Male,burning sensation in chest,109,98.4,105/68,hypertension,,High
+41,Female,burning sensation in chest,132,97.9,101/83,diabetes,,High
+35,Female,high fever with chills,62,100.6,101/63,hypertension,,Medium
+49,Female,severe headache with confusion,118,97.3,,heart disease,,Low
+75,Female,burning sensation in chest,113,97.6,,hypertension,,High
+5,Male,tightness spreading to left arm,69,98.1,116/82,heart disease,,Low
+41,Male,joint swelling and stiffness,70,98.5,109/87,diabetes,,Low
+26,Female,dizziness and slurred speech,104,98.1,130/79,diabetes,,Low
+38,Female,dizziness and slurred speech,120,104.2,118/70,asthma,,Critical
+22,Female,,140,102.7,117/75,heart disease,severe bleeding,Critical
+88,Female,high fever with chills,100,102.0,106/81,hypertension,,Medium
+43,Male,tightness spreading to left arm,76,97.7,103/87,none,,Low
+88,Female,high fever with chills,79,102.3,131/82,none,,Medium
+25,Female,extreme weakness,66,104.2,139/87,heart disease,,Critical
+40,Male,lower back strain,70,97.1,108/70,asthma,,Low
+49,Male,burning sensation in chest,119,98.7,133/68,diabetes,,High
+37,Female,burning sensation in chest,120,97.1,,none,,High
+57,Female,joint swelling and stiffness,158,101.6,121/72,diabetes,active seizure,Critical
+60,Male,persistent cough and fatigue,69,101.6,103/81,none,,Medium
+5,Male,tightness spreading to left arm,87,97.3,129/74,none,,Low
+65,Male,persistent cough and fatigue,90,102.8,115/63,asthma,,Medium
+22,Female,sudden crushing chest pain,147,97.1,130/73,asthma,,High
+11,Male,extreme weakness,81,97.4,137/62,heart disease,,Low
+59,Male,sudden crushing chest pain,134,98.8,,hypertension,,High
+59,Male,severe headache with confusion,183,98.2,,diabetes,,Critical
+6,Female,sudden crushing chest pain,113,98.7,130/79,hypertension,,High
+29,Female,,143,103.8,116/76,none,suicidal ideation,Critical
+32,Male,burning sensation in chest,119,98.9,115/81,heart disease,,High
+46,Male,sudden crushing chest pain,133,98.0,128/65,asthma,,High
+65,Female,joint swelling and stiffness,96,105.5,113/80,hypertension,,Critical
+19,Female,lower back strain,68,98.9,106/72,heart disease,,Low
+39,Male,,64,98.4,,hypertension,,Low
+86,Male,lower back strain,80,97.1,104/77,heart disease,,Low
+71,Male,,86,97.0,,hypertension,,Low
+37,Male,burning sensation in chest,121,102.2,113/74,diabetes,active seizure,Critical
+56,Male,extreme weakness,97,98.4,139/60,heart disease,,Low
+9,Female,persistent cough and fatigue,75,101.1,129/82,asthma,,Medium
+66,Female,joint swelling and stiffness,181,98.3,,none,,Critical
+12,Male,joint swelling and stiffness,69,97.6,119/71,asthma,,Low
+68,Male,persistent cough and fatigue,81,102.8,115/71,none,,Medium
+72,Male,lower back strain,72,98.9,138/65,heart disease,,Low
+61,Male,severe headache with confusion,113,98.4,126/84,asthma,,Low
+67,Male,burning sensation in chest,115,97.7,116/85,heart disease,,High
+48,Male,shortness of breath at rest,103,98.8,115/70,hypertension,,High
+20,Male,,81,97.0,112/87,asthma,,Low
+46,Male,joint swelling and stiffness,89,97.4,138/67,none,,Low
+90,Female,high fever with chills,69,100.4,128/70,none,,Medium
+22,Male,,157,102.1,139/87,none,unconscious,Critical
+39,Female,lower back strain,84,98.2,117/90,diabetes,,Low
+10,Female,extreme weakness,93,98.6,116/88,hypertension,,Low
+23,Male,,65,97.5,140/66,heart disease,,Low
+44,Female,severe headache with confusion,120,98.0,110/68,none,,Low
+71,Male,severe headache with confusion,118,98.3,135/72,heart disease,,Low
+20,Male,lower back strain,76,98.9,119/86,heart disease,,Low
+90,Female,extreme weakness,74,98.4,133/88,none,,Low
+33,Female,persistent cough and fatigue,100,101.9,119/81,diabetes,,Medium
+56,Female,severe headache with confusion,96,104.6,,none,,Critical
+21,Male,persistent cough and fatigue,60,100.4,119/68,hypertension,,Medium
+69,Male,high fever with chills,87,100.1,120/81,hypertension,,Medium
+66,Female,tightness spreading to left arm,82,98.9,104/86,heart disease,,Low
+23,Female,burning sensation in chest,125,101.2,136/80,heart disease,unconscious,Critical
+35,Male,persistent cough and fatigue,63,97.1,122/90,heart disease,severe bleeding,Critical
+68,Male,burning sensation in chest,133,98.5,103/87,hypertension,,High
+56,Male,burning sensation in chest,109,97.8,108/90,diabetes,,High
+91,Female,persistent cough and fatigue,167,102.6,105/86,hypertension,unconscious,Critical
+95,Male,sudden crushing chest pain,136,97.6,125/84,none,,High
+31,Female,burning sensation in chest,102,97.1,101/73,diabetes,,High
+53,Female,shortness of breath at rest,129,102.6,,asthma,unconscious,Critical
+54,Male,persistent cough and fatigue,126,100.2,128/62,hypertension,severe bleeding,Critical

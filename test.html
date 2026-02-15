@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Smart Triage - Voice Assessment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #eef2ff, #f8fafc);
+            color: #1f2937;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 60px auto;
+            padding: 30px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .controls {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        button {
+            padding: 12px 22px;
+            font-size: 14px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            margin: 0 8px;
+            font-weight: 500;
+        }
+
+        .start-btn {
+            background-color: #2563eb;
+            color: white;
+        }
+
+        .stop-btn {
+            background-color: #e5e7eb;
+            color: #374151;
+        }
+
+        .status {
+            margin-top: 12px;
+            font-size: 14px;
+            color: #6b7280;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+            margin-top: 25px;
+        }
+
+        .transcript-box {
+            background: #f9fafb;
+            padding: 15px;
+            border-radius: 8px;
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        pre {
+            background: #111827;
+            color: #f3f4f6;
+            padding: 20px;
+            border-radius: 10px;
+            overflow-x: auto;
+            font-size: 13px;
+        }
+
+        .loader {
+            display: none;
+            margin-top: 10px;
+            color: #2563eb;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>AI Smart Triage - Voice Assessment</h1>
+        <p>Voice → AI Prediction → Department Routing</p>
+    </div>
+
+    <div class="controls">
+        <button class="start-btn" onclick="start()">Start Recording</button>
+        <button class="stop-btn" onclick="stopRecording()">Stop & Analyze</button>
+        <div class="status" id="status">Awaiting voice input...</div>
+        <div class="loader" id="loader">⏳ Processing...</div>
+    </div>
+
+    <div class="card">
+        <h3>Recognized Transcript</h3>
+        <div class="transcript-box" id="transcriptBox">
+            No transcript yet.
+        </div>
+    </div>
+
+    <div class="card">
+        <h3>Triage Result</h3>
+        <pre id="jsonOutput">
+AI response will appear here...
+        </pre>
+    </div>
+
+</div>
+
+<script>
+
+let recognition;
+let finalTranscript = "";
+
+const API_URL = "https://yer-unspecious-rosette.ngrok-free.dev/triage";  
+const API_KEY = "ak_live_triage_secure_2026";
+
+function start() {
+
+    finalTranscript = "";
+
+    document.getElementById("status").innerText = "Listening...";
+    document.getElementById("transcriptBox").innerText = "";
+    document.getElementById("jsonOutput").innerText = "Waiting for AI response...";
+    document.getElementById("loader").style.display = "none";
+
+    recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+
+    recognition.lang = "en-US";
+    recognition.interimResults = true;
+    recognition.continuous = true;
+
+    recognition.onresult = function(event) {
+
+        for (let i = event.resultIndex; i < event.results.length; i++) {
+
+            if (event.results[i].isFinal) {
+                finalTranscript += event.results[i][0].transcript + " ";
+            }
+        }
+
+        document.getElementById("transcriptBox").innerText = finalTranscript;
+    };
+
+    recognition.onerror = function(event) {
+        document.getElementById("status").innerText = "Speech Error: " + event.error;
+    };
+
+    recognition.start();
+}
+
+function stopRecording() {
+
+    if (recognition) {
+        recognition.stop();
+    }
+
+    if (!finalTranscript.trim()) {
+        document.getElementById("status").innerText = "No speech detected.";
+        return;
+    }
+
+    document.getElementById("status").innerText = "Sending to AI triage...";
+    document.getElementById("loader").style.display = "block";
+
+    sendTranscript(finalTranscript);
+}
+
+async function sendTranscript(transcript) {
+
+    try {
+
+        const response = await fetch(API_URL, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json",
+                "x-api-key": API_KEY
+            },
+            body: JSON.stringify({
+                transcript: transcript
+            })
+        });
+
+        const data = await response.json();
+
+        document.getElementById("status").innerText = "Triage complete";
+        document.getElementById("loader").style.display = "none";
+
+        document.getElementById("jsonOutput").innerText =
+            JSON.stringify(data, null, 4);
+
+    } catch (error) {
+        document.getElementById("status").innerText = "API Error";
+        document.getElementById("loader").style.display = "none";
+    }
+}
+
+</script>
+
+</body>
+</html>
